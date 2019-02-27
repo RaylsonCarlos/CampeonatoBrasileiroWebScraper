@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+    <xs:element name="cb" type="cbType"/>
+    
+    <xs:complexType name="cbType">
+        <xs:sequence>
+            <xs:element name="rodada" type="rodadaType" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+        <xs:attribute name="ano" type="xs:positiveInteger"/>
+        <xs:attribute name="serie" type="xs:string"/>
+    </xs:complexType>
+    
+    <xs:complexType name="rodadaType">
+        <xs:sequence minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="jogo" type="jogoType"/>
+        </xs:sequence>
+        <xs:attribute name="n" type="xs:positiveInteger"/>
+    </xs:complexType>
+    
+    <xs:complexType name="jogoType">
+        <xs:sequence>
+            <xs:element name="equipe" type="equipeType"/>
+            <xs:element name="equipe" type="equipeType"/>
+        </xs:sequence>
+        <xs:attribute name="horario" type="xs:dateTime"/>
+    </xs:complexType>
+    
+    <xs:complexType name="equipeType">
+        <xs:attribute name="tipo">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:enumeration value="mandante"/>
+                    <xs:enumeration value="visitante"/>
+                </xs:restriction>
+            </xs:simpleType>            
+        </xs:attribute>
+        <xs:attribute name="time" type="xs:string"/>
+        <xs:attribute name="gols" type="xs:nonNegativeInteger"/>
+    </xs:complexType>
+
+</xs:schema>

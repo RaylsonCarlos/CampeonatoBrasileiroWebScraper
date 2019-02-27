@@ -1,0 +1,1598 @@
+<cb ano="2017" serie="A" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CB_v2.xsd">
+    <rodada n="38">
+        <jogo horario="2017-12-03T17:00:00">
+            <equipe gols="2" time="Botafogo-RJ" tipo="mandante" />
+            <equipe gols="2" time="Cruzeiro-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-12-03T17:00:00">
+            <equipe gols="2" time="Vasco da Gama-RJ" tipo="mandante" />
+            <equipe gols="1" time="Ponte Preta-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-12-03T17:00:00">
+            <equipe gols="1" time="Santos-SP" tipo="mandante" />
+            <equipe gols="1" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-12-03T17:00:00">
+            <equipe gols="1" time="São Paulo-SP" tipo="mandante" />
+            <equipe gols="1" time="Bahia-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-12-03T17:00:00">
+            <equipe gols="4" time="Atlético-MG" tipo="mandante" />
+            <equipe gols="3" time="Grêmio-RS" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-12-03T17:00:00">
+            <equipe gols="3" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="0" time="Palmeiras-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-12-03T17:00:00">
+            <equipe gols="1" time="Sport-PE" tipo="mandante" />
+            <equipe gols="0" time="Corinthians-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-12-03T17:00:00">
+            <equipe gols="1" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="2" time="Flamengo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-12-03T17:00:00">
+            <equipe gols="1" time="Atlético-GO" tipo="mandante" />
+            <equipe gols="1" time="Fluminense-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-12-03T17:00:00">
+            <equipe gols="2" time="Chapecoense-SC" tipo="mandante" />
+            <equipe gols="1" time="Coritiba-PR" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="37">
+        <jogo horario="2017-11-25T17:00:00">
+            <equipe gols="1" time="Fluminense-RJ" tipo="mandante" />
+            <equipe gols="2" time="Sport-PE" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-26T17:00:00">
+            <equipe gols="1" time="Grêmio-RS" tipo="mandante" />
+            <equipe gols="1" time="Atlético-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-26T17:00:00">
+            <equipe gols="1" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="0" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-26T17:00:00">
+            <equipe gols="2" time="Corinthians-SP" tipo="mandante" />
+            <equipe gols="2" time="Atlético-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-26T17:00:00">
+            <equipe gols="0" time="Cruzeiro-MG" tipo="mandante" />
+            <equipe gols="1" time="Vasco da Gama-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-26T17:00:00">
+            <equipe gols="1" time="Coritiba-PR" tipo="mandante" />
+            <equipe gols="2" time="São Paulo-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-26T17:00:00">
+            <equipe gols="2" time="Ponte Preta-SP" tipo="mandante" />
+            <equipe gols="3" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-26T19:00:00">
+            <equipe gols="0" time="Bahia-BA" tipo="mandante" />
+            <equipe gols="1" time="Chapecoense-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-26T19:00:00">
+            <equipe gols="1" time="Flamengo-RJ" tipo="mandante" />
+            <equipe gols="2" time="Santos-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-27T20:00:00">
+            <equipe gols="2" time="Palmeiras-SP" tipo="mandante" />
+            <equipe gols="0" time="Botafogo-RJ" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="36">
+        <jogo horario="2017-11-19T17:00:00">
+            <equipe gols="3" time="Flamengo-RJ" tipo="mandante" />
+            <equipe gols="0" time="Corinthians-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-19T17:00:00">
+            <equipe gols="0" time="São Paulo-SP" tipo="mandante" />
+            <equipe gols="0" time="Botafogo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-19T17:00:00">
+            <equipe gols="1" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="1" time="Cruzeiro-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-19T17:00:00">
+            <equipe gols="1" time="Atlético-GO" tipo="mandante" />
+            <equipe gols="1" time="Chapecoense-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-19T17:00:00">
+            <equipe gols="1" time="Sport-PE" tipo="mandante" />
+            <equipe gols="0" time="Bahia-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-19T19:00:00">
+            <equipe gols="3" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="1" time="Vasco da Gama-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-19T19:00:00">
+            <equipe gols="1" time="Santos-SP" tipo="mandante" />
+            <equipe gols="0" time="Grêmio-RS" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-19T19:00:00">
+            <equipe gols="3" time="Atlético-MG" tipo="mandante" />
+            <equipe gols="0" time="Coritiba-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-20T17:00:00">
+            <equipe gols="2" time="Fluminense-RJ" tipo="mandante" />
+            <equipe gols="0" time="Ponte Preta-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-20T20:00:00">
+            <equipe gols="2" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="1" time="Palmeiras-SP" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="35">
+        <jogo horario="2017-11-15T17:00:00">
+            <equipe gols="2" time="Ponte Preta-SP" tipo="mandante" />
+            <equipe gols="1" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-15T19:30:00">
+            <equipe gols="1" time="Grêmio-RS" tipo="mandante" />
+            <equipe gols="0" time="São Paulo-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-15T19:30:00">
+            <equipe gols="2" time="Cruzeiro-MG" tipo="mandante" />
+            <equipe gols="2" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-15T21:45:00">
+            <equipe gols="1" time="Vasco da Gama-RJ" tipo="mandante" />
+            <equipe gols="1" time="Atlético-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-15T21:45:00">
+            <equipe gols="3" time="Corinthians-SP" tipo="mandante" />
+            <equipe gols="1" time="Fluminense-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-16T20:00:00">
+            <equipe gols="2" time="Chapecoense-SC" tipo="mandante" />
+            <equipe gols="1" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-16T20:00:00">
+            <equipe gols="1" time="Botafogo-RJ" tipo="mandante" />
+            <equipe gols="2" time="Atlético-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-16T20:00:00">
+            <equipe gols="5" time="Palmeiras-SP" tipo="mandante" />
+            <equipe gols="1" time="Sport-PE" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-16T21:00:00">
+            <equipe gols="1" time="Coritiba-PR" tipo="mandante" />
+            <equipe gols="0" time="Flamengo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-16T21:00:00">
+            <equipe gols="3" time="Bahia-BA" tipo="mandante" />
+            <equipe gols="1" time="Santos-SP" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="34">
+        <jogo horario="2017-11-11T17:00:00">
+            <equipe gols="0" time="Botafogo-RJ" tipo="mandante" />
+            <equipe gols="1" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-11T19:00:00">
+            <equipe gols="1" time="Corinthians-SP" tipo="mandante" />
+            <equipe gols="0" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-12T17:00:00">
+            <equipe gols="1" time="Grêmio-RS" tipo="mandante" />
+            <equipe gols="1" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-12T17:00:00">
+            <equipe gols="1" time="Vasco da Gama-RJ" tipo="mandante" />
+            <equipe gols="1" time="São Paulo-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-12T17:00:00">
+            <equipe gols="2" time="Atlético-GO" tipo="mandante" />
+            <equipe gols="0" time="Sport-PE" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-12T17:00:00">
+            <equipe gols="2" time="Palmeiras-SP" tipo="mandante" />
+            <equipe gols="0" time="Flamengo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-12T18:00:00">
+            <equipe gols="2" time="Bahia-BA" tipo="mandante" />
+            <equipe gols="2" time="Atlético-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-12T19:00:00">
+            <equipe gols="3" time="Cruzeiro-MG" tipo="mandante" />
+            <equipe gols="1" time="Fluminense-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-12T19:00:00">
+            <equipe gols="1" time="Coritiba-PR" tipo="mandante" />
+            <equipe gols="1" time="Ponte Preta-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-13T20:00:00">
+            <equipe gols="2" time="Chapecoense-SC" tipo="mandante" />
+            <equipe gols="0" time="Santos-SP" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="33">
+        <jogo horario="2017-11-08T19:30:00">
+            <equipe gols="0" time="Ponte Preta-SP" tipo="mandante" />
+            <equipe gols="1" time="Grêmio-RS" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-08T19:30:00">
+            <equipe gols="1" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="2" time="Bahia-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-08T21:00:00">
+            <equipe gols="1" time="Sport-PE" tipo="mandante" />
+            <equipe gols="2" time="Botafogo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-08T21:00:00">
+            <equipe gols="0" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="1" time="Corinthians-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-08T21:45:00">
+            <equipe gols="2" time="Flamengo-RJ" tipo="mandante" />
+            <equipe gols="0" time="Cruzeiro-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-08T21:45:00">
+            <equipe gols="1" time="Santos-SP" tipo="mandante" />
+            <equipe gols="2" time="Vasco da Gama-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-08T21:45:00">
+            <equipe gols="3" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="1" time="Palmeiras-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-09T20:00:00">
+            <equipe gols="2" time="São Paulo-SP" tipo="mandante" />
+            <equipe gols="2" time="Chapecoense-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-09T20:00:00">
+            <equipe gols="3" time="Atlético-MG" tipo="mandante" />
+            <equipe gols="2" time="Atlético-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-09T21:00:00">
+            <equipe gols="2" time="Fluminense-RJ" tipo="mandante" />
+            <equipe gols="2" time="Coritiba-PR" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="32">
+        <jogo horario="2017-11-04T17:00:00">
+            <equipe gols="3" time="Santos-SP" tipo="mandante" />
+            <equipe gols="1" time="Atlético-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-04T19:00:00">
+            <equipe gols="1" time="Botafogo-RJ" tipo="mandante" />
+            <equipe gols="2" time="Fluminense-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-04T19:00:00">
+            <equipe gols="0" time="Atlético-GO" tipo="mandante" />
+            <equipe gols="1" time="São Paulo-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-04T21:00:00">
+            <equipe gols="4" time="Coritiba-PR" tipo="mandante" />
+            <equipe gols="0" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-05T17:00:00">
+            <equipe gols="3" time="Corinthians-SP" tipo="mandante" />
+            <equipe gols="2" time="Palmeiras-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-05T17:00:00">
+            <equipe gols="3" time="Grêmio-RS" tipo="mandante" />
+            <equipe gols="1" time="Flamengo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-05T17:00:00">
+            <equipe gols="1" time="Cruzeiro-MG" tipo="mandante" />
+            <equipe gols="0" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-05T18:00:00">
+            <equipe gols="2" time="Bahia-BA" tipo="mandante" />
+            <equipe gols="0" time="Ponte Preta-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-05T19:00:00">
+            <equipe gols="1" time="Chapecoense-SC" tipo="mandante" />
+            <equipe gols="1" time="Sport-PE" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-11-05T19:00:00">
+            <equipe gols="1" time="Vasco da Gama-RJ" tipo="mandante" />
+            <equipe gols="1" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="31">
+        <jogo horario="2017-10-28T17:00:00">
+            <equipe gols="2" time="São Paulo-SP" tipo="mandante" />
+            <equipe gols="1" time="Santos-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-28T19:00:00">
+            <equipe gols="0" time="Flamengo-RJ" tipo="mandante" />
+            <equipe gols="0" time="Vasco da Gama-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-28T21:00:00">
+            <equipe gols="0" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="0" time="Chapecoense-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-29T17:00:00">
+            <equipe gols="1" time="Fluminense-RJ" tipo="mandante" />
+            <equipe gols="1" time="Bahia-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-29T17:00:00">
+            <equipe gols="0" time="Atlético-MG" tipo="mandante" />
+            <equipe gols="0" time="Botafogo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-29T17:00:00">
+            <equipe gols="1" time="Ponte Preta-SP" tipo="mandante" />
+            <equipe gols="0" time="Corinthians-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-29T18:00:00">
+            <equipe gols="3" time="Sport-PE" tipo="mandante" />
+            <equipe gols="4" time="Coritiba-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-29T18:00:00">
+            <equipe gols="1" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="1" time="Atlético-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-29T19:00:00">
+            <equipe gols="2" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="2" time="Grêmio-RS" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-30T20:00:00">
+            <equipe gols="2" time="Palmeiras-SP" tipo="mandante" />
+            <equipe gols="2" time="Cruzeiro-MG" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="30">
+        <jogo horario="2017-10-21T17:00:00">
+            <equipe gols="1" time="Vasco da Gama-RJ" tipo="mandante" />
+            <equipe gols="1" time="Coritiba-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-22T17:00:00">
+            <equipe gols="2" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="1" time="Sport-PE" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-22T17:00:00">
+            <equipe gols="2" time="São Paulo-SP" tipo="mandante" />
+            <equipe gols="0" time="Flamengo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-22T17:00:00">
+            <equipe gols="1" time="Cruzeiro-MG" tipo="mandante" />
+            <equipe gols="3" time="Atlético-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-22T17:00:00">
+            <equipe gols="1" time="Grêmio-RS" tipo="mandante" />
+            <equipe gols="3" time="Palmeiras-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-22T17:00:00">
+            <equipe gols="2" time="Bahia-BA" tipo="mandante" />
+            <equipe gols="1" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-22T17:00:00">
+            <equipe gols="1" time="Santos-SP" tipo="mandante" />
+            <equipe gols="0" time="Atlético-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-22T19:00:00">
+            <equipe gols="1" time="Ponte Preta-SP" tipo="mandante" />
+            <equipe gols="2" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-22T19:00:00">
+            <equipe gols="2" time="Chapecoense-SC" tipo="mandante" />
+            <equipe gols="0" time="Fluminense-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-23T20:00:00">
+            <equipe gols="2" time="Botafogo-RJ" tipo="mandante" />
+            <equipe gols="1" time="Corinthians-SP" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="29">
+        <jogo horario="2017-10-18T19:30:00">
+            <equipe gols="0" time="Atlético-GO" tipo="mandante" />
+            <equipe gols="1" time="Vasco da Gama-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-18T19:30:00">
+            <equipe gols="1" time="Coritiba-PR" tipo="mandante" />
+            <equipe gols="0" time="Cruzeiro-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-18T21:00:00">
+            <equipe gols="2" time="Atlético-MG" tipo="mandante" />
+            <equipe gols="3" time="Chapecoense-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-18T21:45:00">
+            <equipe gols="1" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="1" time="Botafogo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-18T21:45:00">
+            <equipe gols="3" time="Fluminense-RJ" tipo="mandante" />
+            <equipe gols="1" time="São Paulo-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-18T21:45:00">
+            <equipe gols="0" time="Corinthians-SP" tipo="mandante" />
+            <equipe gols="0" time="Grêmio-RS" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-19T20:00:00">
+            <equipe gols="2" time="Palmeiras-SP" tipo="mandante" />
+            <equipe gols="0" time="Ponte Preta-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-19T20:00:00">
+            <equipe gols="2" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="3" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-19T21:00:00">
+            <equipe gols="4" time="Flamengo-RJ" tipo="mandante" />
+            <equipe gols="1" time="Bahia-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-19T21:00:00">
+            <equipe gols="1" time="Sport-PE" tipo="mandante" />
+            <equipe gols="1" time="Santos-SP" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="28">
+        <jogo horario="2017-10-07T16:00:00">
+            <equipe gols="2" time="Cruzeiro-MG" tipo="mandante" />
+            <equipe gols="1" time="Ponte Preta-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-14T19:00:00">
+            <equipe gols="1" time="Vasco da Gama-RJ" tipo="mandante" />
+            <equipe gols="0" time="Botafogo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-14T21:00:00">
+            <equipe gols="2" time="São Paulo-SP" tipo="mandante" />
+            <equipe gols="1" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-15T17:00:00">
+            <equipe gols="1" time="Fluminense-RJ" tipo="mandante" />
+            <equipe gols="0" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-15T17:00:00">
+            <equipe gols="1" time="Sport-PE" tipo="mandante" />
+            <equipe gols="1" time="Atlético-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-15T17:00:00">
+            <equipe gols="1" time="Atlético-GO" tipo="mandante" />
+            <equipe gols="3" time="Palmeiras-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-15T17:00:00">
+            <equipe gols="0" time="Chapecoense-SC" tipo="mandante" />
+            <equipe gols="1" time="Flamengo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-15T19:00:00">
+            <equipe gols="0" time="Coritiba-PR" tipo="mandante" />
+            <equipe gols="1" time="Grêmio-RS" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-15T19:00:00">
+            <equipe gols="2" time="Bahia-BA" tipo="mandante" />
+            <equipe gols="0" time="Corinthians-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-16T20:00:00">
+            <equipe gols="2" time="Santos-SP" tipo="mandante" />
+            <equipe gols="2" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="27">
+        <jogo horario="2017-10-11T19:30:00">
+            <equipe gols="2" time="Botafogo-RJ" tipo="mandante" />
+            <equipe gols="1" time="Chapecoense-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-11T19:30:00">
+            <equipe gols="2" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="2" time="Atlético-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-11T21:00:00">
+            <equipe gols="3" time="Corinthians-SP" tipo="mandante" />
+            <equipe gols="1" time="Coritiba-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-11T21:45:00">
+            <equipe gols="1" time="Atlético-MG" tipo="mandante" />
+            <equipe gols="0" time="São Paulo-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-11T21:45:00">
+            <equipe gols="0" time="Grêmio-RS" tipo="mandante" />
+            <equipe gols="1" time="Cruzeiro-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-11T21:45:00">
+            <equipe gols="1" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="2" time="Vasco da Gama-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-12T17:00:00">
+            <equipe gols="1" time="Flamengo-RJ" tipo="mandante" />
+            <equipe gols="1" time="Fluminense-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-12T17:00:00">
+            <equipe gols="1" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="2" time="Sport-PE" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-12T17:00:00">
+            <equipe gols="1" time="Ponte Preta-SP" tipo="mandante" />
+            <equipe gols="1" time="Santos-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-12T21:00:00">
+            <equipe gols="2" time="Palmeiras-SP" tipo="mandante" />
+            <equipe gols="2" time="Bahia-BA" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="26">
+        <jogo horario="2017-09-30T16:00:00">
+            <equipe gols="1" time="Vasco da Gama-RJ" tipo="mandante" />
+            <equipe gols="1" time="Chapecoense-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-09-30T16:00:00">
+            <equipe gols="1" time="Bahia-BA" tipo="mandante" />
+            <equipe gols="1" time="Coritiba-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-09-30T19:00:00">
+            <equipe gols="0" time="Palmeiras-SP" tipo="mandante" />
+            <equipe gols="1" time="Santos-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-01T16:00:00">
+            <equipe gols="2" time="Botafogo-RJ" tipo="mandante" />
+            <equipe gols="3" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-01T16:00:00">
+            <equipe gols="1" time="São Paulo-SP" tipo="mandante" />
+            <equipe gols="0" time="Sport-PE" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-01T16:00:00">
+            <equipe gols="1" time="Cruzeiro-MG" tipo="mandante" />
+            <equipe gols="1" time="Corinthians-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-01T16:00:00">
+            <equipe gols="0" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="2" time="Atlético-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-01T16:00:00">
+            <equipe gols="1" time="Grêmio-RS" tipo="mandante" />
+            <equipe gols="0" time="Fluminense-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-01T19:00:00">
+            <equipe gols="0" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="2" time="Atlético-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-10-02T20:00:00">
+            <equipe gols="1" time="Ponte Preta-SP" tipo="mandante" />
+            <equipe gols="0" time="Flamengo-RJ" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="25">
+        <jogo horario="2017-09-23T19:00:00">
+            <equipe gols="1" time="Flamengo-RJ" tipo="mandante" />
+            <equipe gols="1" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-09-23T21:00:00">
+            <equipe gols="1" time="Santos-SP" tipo="mandante" />
+            <equipe gols="0" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-09-24T11:00:00">
+            <equipe gols="1" time="São Paulo-SP" tipo="mandante" />
+            <equipe gols="1" time="Corinthians-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-09-24T16:00:00">
+            <equipe gols="1" time="Chapecoense-SC" tipo="mandante" />
+            <equipe gols="0" time="Ponte Preta-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-09-24T16:00:00">
+            <equipe gols="1" time="Atlético-GO" tipo="mandante" />
+            <equipe gols="2" time="Cruzeiro-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-09-24T16:00:00">
+            <equipe gols="2" time="Coritiba-PR" tipo="mandante" />
+            <equipe gols="3" time="Botafogo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-09-24T16:00:00">
+            <equipe gols="0" time="Fluminense-RJ" tipo="mandante" />
+            <equipe gols="1" time="Palmeiras-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-09-24T19:00:00">
+            <equipe gols="1" time="Atlético-MG" tipo="mandante" />
+            <equipe gols="3" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-09-24T19:00:00">
+            <equipe gols="1" time="Bahia-BA" tipo="mandante" />
+            <equipe gols="0" time="Grêmio-RS" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-09-25T20:00:00">
+            <equipe gols="1" time="Sport-PE" tipo="mandante" />
+            <equipe gols="1" time="Vasco da Gama-RJ" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="24">
+        <jogo horario="2017-09-16T19:00:00">
+            <equipe gols="2" time="Botafogo-RJ" tipo="mandante" />
+            <equipe gols="0" time="Santos-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-09-16T21:00:00">
+            <equipe gols="1" time="Ponte Preta-SP" tipo="mandante" />
+            <equipe gols="3" time="Atlético-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-09-17T11:00:00">
+            <equipe gols="1" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="1" time="Atlético-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-09-17T16:00:00">
+            <equipe gols="0" time="Grêmio-RS" tipo="mandante" />
+            <equipe gols="1" time="Chapecoense-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-09-17T16:00:00">
+            <equipe gols="2" time="Flamengo-RJ" tipo="mandante" />
+            <equipe gols="0" time="Sport-PE" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-09-17T16:00:00">
+            <equipe gols="1" time="Corinthians-SP" tipo="mandante" />
+            <equipe gols="0" time="Vasco da Gama-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-09-17T16:00:00">
+            <equipe gols="1" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="2" time="São Paulo-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-09-17T16:00:00">
+            <equipe gols="3" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="1" time="Fluminense-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-09-17T19:00:00">
+            <equipe gols="1" time="Cruzeiro-MG" tipo="mandante" />
+            <equipe gols="0" time="Bahia-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-09-18T20:00:00">
+            <equipe gols="1" time="Palmeiras-SP" tipo="mandante" />
+            <equipe gols="0" time="Coritiba-PR" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="23">
+        <jogo horario="2017-09-09T16:00:00">
+            <equipe gols="1" time="Atlético-MG" tipo="mandante" />
+            <equipe gols="1" time="Palmeiras-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-09-09T18:00:00">
+            <equipe gols="1" time="Vasco da Gama-RJ" tipo="mandante" />
+            <equipe gols="0" time="Grêmio-RS" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-09-09T19:00:00">
+            <equipe gols="2" time="São Paulo-SP" tipo="mandante" />
+            <equipe gols="2" time="Ponte Preta-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-09-10T11:00:00">
+            <equipe gols="1" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="1" time="Coritiba-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-09-10T16:00:00">
+            <equipe gols="2" time="Santos-SP" tipo="mandante" />
+            <equipe gols="0" time="Corinthians-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-09-10T16:00:00">
+            <equipe gols="0" time="Sport-PE" tipo="mandante" />
+            <equipe gols="1" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-09-10T16:00:00">
+            <equipe gols="2" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="2" time="Fluminense-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-09-10T19:00:00">
+            <equipe gols="2" time="Botafogo-RJ" tipo="mandante" />
+            <equipe gols="0" time="Flamengo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-09-10T19:00:00">
+            <equipe gols="1" time="Chapecoense-SC" tipo="mandante" />
+            <equipe gols="2" time="Cruzeiro-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-09-11T20:00:00">
+            <equipe gols="1" time="Atlético-GO" tipo="mandante" />
+            <equipe gols="1" time="Bahia-BA" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="22">
+        <jogo horario="2017-08-26T16:00:00">
+            <equipe gols="0" time="Fluminense-RJ" tipo="mandante" />
+            <equipe gols="1" time="Vasco da Gama-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-26T19:00:00">
+            <equipe gols="0" time="Corinthians-SP" tipo="mandante" />
+            <equipe gols="1" time="Atlético-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-27T16:00:00">
+            <equipe gols="2" time="Flamengo-RJ" tipo="mandante" />
+            <equipe gols="0" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-27T16:00:00">
+            <equipe gols="4" time="Palmeiras-SP" tipo="mandante" />
+            <equipe gols="2" time="São Paulo-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-27T16:00:00">
+            <equipe gols="1" time="Bahia-BA" tipo="mandante" />
+            <equipe gols="2" time="Botafogo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-27T16:00:00">
+            <equipe gols="1" time="Ponte Preta-SP" tipo="mandante" />
+            <equipe gols="2" time="Atlético-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-27T19:00:00">
+            <equipe gols="1" time="Cruzeiro-MG" tipo="mandante" />
+            <equipe gols="1" time="Santos-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-27T19:00:00">
+            <equipe gols="1" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="0" time="Chapecoense-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-28T20:00:00">
+            <equipe gols="0" time="Coritiba-PR" tipo="mandante" />
+            <equipe gols="1" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-09-02T16:00:00">
+            <equipe gols="5" time="Grêmio-RS" tipo="mandante" />
+            <equipe gols="0" time="Sport-PE" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="21">
+        <jogo horario="2017-08-19T16:00:00">
+            <equipe gols="0" time="Corinthians-SP" tipo="mandante" />
+            <equipe gols="1" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-19T19:00:00">
+            <equipe gols="2" time="Flamengo-RJ" tipo="mandante" />
+            <equipe gols="0" time="Atlético-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-20T11:00:00">
+            <equipe gols="0" time="Grêmio-RS" tipo="mandante" />
+            <equipe gols="0" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-20T16:00:00">
+            <equipe gols="2" time="Ponte Preta-SP" tipo="mandante" />
+            <equipe gols="1" time="Botafogo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-20T16:00:00">
+            <equipe gols="2" time="Cruzeiro-MG" tipo="mandante" />
+            <equipe gols="0" time="Sport-PE" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-20T16:00:00">
+            <equipe gols="3" time="Bahia-BA" tipo="mandante" />
+            <equipe gols="0" time="Vasco da Gama-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-20T16:00:00">
+            <equipe gols="1" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="1" time="São Paulo-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-20T19:00:00">
+            <equipe gols="0" time="Palmeiras-SP" tipo="mandante" />
+            <equipe gols="2" time="Chapecoense-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-20T19:00:00">
+            <equipe gols="0" time="Coritiba-PR" tipo="mandante" />
+            <equipe gols="0" time="Santos-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-21T20:00:00">
+            <equipe gols="2" time="Fluminense-RJ" tipo="mandante" />
+            <equipe gols="1" time="Atlético-MG" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="20">
+        <jogo horario="2017-08-12T16:00:00">
+            <equipe gols="1" time="Atlético-GO" tipo="mandante" />
+            <equipe gols="0" time="Coritiba-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-12T19:00:00">
+            <equipe gols="0" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="1" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-13T11:00:00">
+            <equipe gols="3" time="São Paulo-SP" tipo="mandante" />
+            <equipe gols="2" time="Cruzeiro-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-13T16:00:00">
+            <equipe gols="1" time="Vasco da Gama-RJ" tipo="mandante" />
+            <equipe gols="1" time="Palmeiras-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-13T16:00:00">
+            <equipe gols="2" time="Atlético-MG" tipo="mandante" />
+            <equipe gols="0" time="Flamengo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-13T16:00:00">
+            <equipe gols="0" time="Sport-PE" tipo="mandante" />
+            <equipe gols="0" time="Ponte Preta-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-13T19:00:00">
+            <equipe gols="4" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="1" time="Bahia-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-13T19:00:00">
+            <equipe gols="1" time="Botafogo-RJ" tipo="mandante" />
+            <equipe gols="0" time="Grêmio-RS" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-14T20:00:00">
+            <equipe gols="0" time="Santos-SP" tipo="mandante" />
+            <equipe gols="0" time="Fluminense-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-23T19:30:00">
+            <equipe gols="0" time="Chapecoense-SC" tipo="mandante" />
+            <equipe gols="1" time="Corinthians-SP" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="19">
+        <jogo horario="2017-08-05T19:00:00">
+            <equipe gols="3" time="Corinthians-SP" tipo="mandante" />
+            <equipe gols="1" time="Sport-PE" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-05T19:00:00">
+            <equipe gols="3" time="Fluminense-RJ" tipo="mandante" />
+            <equipe gols="1" time="Atlético-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-06T11:00:00">
+            <equipe gols="0" time="Flamengo-RJ" tipo="mandante" />
+            <equipe gols="2" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-06T16:00:00">
+            <equipe gols="0" time="Palmeiras-SP" tipo="mandante" />
+            <equipe gols="1" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-06T16:00:00">
+            <equipe gols="0" time="Cruzeiro-MG" tipo="mandante" />
+            <equipe gols="0" time="Botafogo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-06T16:00:00">
+            <equipe gols="2" time="Coritiba-PR" tipo="mandante" />
+            <equipe gols="0" time="Chapecoense-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-06T16:00:00">
+            <equipe gols="2" time="Grêmio-RS" tipo="mandante" />
+            <equipe gols="0" time="Atlético-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-06T16:00:00">
+            <equipe gols="2" time="Bahia-BA" tipo="mandante" />
+            <equipe gols="1" time="São Paulo-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-06T19:00:00">
+            <equipe gols="0" time="Ponte Preta-SP" tipo="mandante" />
+            <equipe gols="0" time="Vasco da Gama-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-06T19:00:00">
+            <equipe gols="0" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="0" time="Santos-SP" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="18">
+        <jogo horario="2017-08-02T19:30:00">
+            <equipe gols="2" time="Sport-PE" tipo="mandante" />
+            <equipe gols="2" time="Fluminense-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-02T19:30:00">
+            <equipe gols="1" time="Chapecoense-SC" tipo="mandante" />
+            <equipe gols="1" time="Bahia-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-02T21:00:00">
+            <equipe gols="0" time="Atlético-MG" tipo="mandante" />
+            <equipe gols="2" time="Corinthians-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-02T21:00:00">
+            <equipe gols="3" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="1" time="Ponte Preta-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-02T21:45:00">
+            <equipe gols="1" time="Botafogo-RJ" tipo="mandante" />
+            <equipe gols="2" time="Palmeiras-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-02T21:45:00">
+            <equipe gols="3" time="Santos-SP" tipo="mandante" />
+            <equipe gols="2" time="Flamengo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-02T21:45:00">
+            <equipe gols="0" time="Atlético-GO" tipo="mandante" />
+            <equipe gols="1" time="Grêmio-RS" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-03T19:30:00">
+            <equipe gols="5" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="0" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-03T19:30:00">
+            <equipe gols="1" time="São Paulo-SP" tipo="mandante" />
+            <equipe gols="2" time="Coritiba-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-03T20:00:00">
+            <equipe gols="0" time="Vasco da Gama-RJ" tipo="mandante" />
+            <equipe gols="3" time="Cruzeiro-MG" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="17">
+        <jogo horario="2017-07-29T16:00:00">
+            <equipe gols="3" time="Botafogo-RJ" tipo="mandante" />
+            <equipe gols="4" time="São Paulo-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-29T19:00:00">
+            <equipe gols="2" time="Palmeiras-SP" tipo="mandante" />
+            <equipe gols="0" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-30T11:00:00">
+            <equipe gols="1" time="Chapecoense-SC" tipo="mandante" />
+            <equipe gols="2" time="Atlético-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-30T16:00:00">
+            <equipe gols="0" time="Coritiba-PR" tipo="mandante" />
+            <equipe gols="2" time="Atlético-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-30T16:00:00">
+            <equipe gols="1" time="Bahia-BA" tipo="mandante" />
+            <equipe gols="3" time="Sport-PE" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-30T16:00:00">
+            <equipe gols="1" time="Corinthians-SP" tipo="mandante" />
+            <equipe gols="1" time="Flamengo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-30T19:00:00">
+            <equipe gols="0" time="Cruzeiro-MG" tipo="mandante" />
+            <equipe gols="0" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-30T19:00:00">
+            <equipe gols="1" time="Grêmio-RS" tipo="mandante" />
+            <equipe gols="1" time="Santos-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-31T20:00:00">
+            <equipe gols="0" time="Vasco da Gama-RJ" tipo="mandante" />
+            <equipe gols="1" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-08-09T20:00:00">
+            <equipe gols="0" time="Ponte Preta-SP" tipo="mandante" />
+            <equipe gols="0" time="Fluminense-RJ" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="16">
+        <jogo horario="2017-07-22T16:00:00">
+            <equipe gols="1" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="2" time="Chapecoense-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-22T19:00:00">
+            <equipe gols="2" time="Flamengo-RJ" tipo="mandante" />
+            <equipe gols="1" time="Coritiba-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-23T11:00:00">
+            <equipe gols="3" time="Santos-SP" tipo="mandante" />
+            <equipe gols="0" time="Bahia-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-23T16:00:00">
+            <equipe gols="1" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="0" time="Cruzeiro-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-23T16:00:00">
+            <equipe gols="0" time="Fluminense-RJ" tipo="mandante" />
+            <equipe gols="1" time="Corinthians-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-23T16:00:00">
+            <equipe gols="0" time="Sport-PE" tipo="mandante" />
+            <equipe gols="2" time="Palmeiras-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-23T19:00:00">
+            <equipe gols="1" time="Atlético-MG" tipo="mandante" />
+            <equipe gols="2" time="Vasco da Gama-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-23T19:00:00">
+            <equipe gols="0" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="2" time="Ponte Preta-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-23T19:00:00">
+            <equipe gols="1" time="Atlético-GO" tipo="mandante" />
+            <equipe gols="1" time="Botafogo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-24T20:00:00">
+            <equipe gols="1" time="São Paulo-SP" tipo="mandante" />
+            <equipe gols="1" time="Grêmio-RS" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="15">
+        <jogo horario="2017-07-19T19:30:00">
+            <equipe gols="1" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="3" time="Grêmio-RS" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-19T19:30:00">
+            <equipe gols="1" time="Santos-SP" tipo="mandante" />
+            <equipe gols="0" time="Chapecoense-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-19T21:00:00">
+            <equipe gols="4" time="Ponte Preta-SP" tipo="mandante" />
+            <equipe gols="0" time="Coritiba-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-19T21:00:00">
+            <equipe gols="0" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="0" time="Corinthians-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-19T21:45:00">
+            <equipe gols="2" time="Flamengo-RJ" tipo="mandante" />
+            <equipe gols="2" time="Palmeiras-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-19T21:45:00">
+            <equipe gols="0" time="Atlético-MG" tipo="mandante" />
+            <equipe gols="2" time="Bahia-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-19T21:45:00">
+            <equipe gols="1" time="São Paulo-SP" tipo="mandante" />
+            <equipe gols="0" time="Vasco da Gama-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-20T19:30:00">
+            <equipe gols="1" time="Fluminense-RJ" tipo="mandante" />
+            <equipe gols="1" time="Cruzeiro-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-20T20:00:00">
+            <equipe gols="4" time="Sport-PE" tipo="mandante" />
+            <equipe gols="0" time="Atlético-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-20T21:00:00">
+            <equipe gols="0" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="0" time="Botafogo-RJ" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="14">
+        <jogo horario="2017-07-15T19:00:00">
+            <equipe gols="2" time="Corinthians-SP" tipo="mandante" />
+            <equipe gols="2" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-16T11:00:00">
+            <equipe gols="4" time="Palmeiras-SP" tipo="mandante" />
+            <equipe gols="2" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-16T16:00:00">
+            <equipe gols="0" time="Vasco da Gama-RJ" tipo="mandante" />
+            <equipe gols="0" time="Santos-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-16T16:00:00">
+            <equipe gols="1" time="Cruzeiro-MG" tipo="mandante" />
+            <equipe gols="1" time="Flamengo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-16T16:00:00">
+            <equipe gols="3" time="Grêmio-RS" tipo="mandante" />
+            <equipe gols="1" time="Ponte Preta-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-16T16:00:00">
+            <equipe gols="1" time="Atlético-GO" tipo="mandante" />
+            <equipe gols="2" time="Atlético-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-16T16:00:00">
+            <equipe gols="2" time="Chapecoense-SC" tipo="mandante" />
+            <equipe gols="0" time="São Paulo-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-16T19:00:00">
+            <equipe gols="1" time="Coritiba-PR" tipo="mandante" />
+            <equipe gols="2" time="Fluminense-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-16T19:00:00">
+            <equipe gols="1" time="Bahia-BA" tipo="mandante" />
+            <equipe gols="1" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-17T20:00:00">
+            <equipe gols="2" time="Botafogo-RJ" tipo="mandante" />
+            <equipe gols="1" time="Sport-PE" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="13">
+        <jogo horario="2017-07-12T19:30:00">
+            <equipe gols="0" time="Ponte Preta-SP" tipo="mandante" />
+            <equipe gols="3" time="Bahia-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-12T19:30:00">
+            <equipe gols="0" time="Atlético-MG" tipo="mandante" />
+            <equipe gols="1" time="Santos-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-12T21:00:00">
+            <equipe gols="0" time="Fluminense-RJ" tipo="mandante" />
+            <equipe gols="1" time="Botafogo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-12T21:45:00">
+            <equipe gols="0" time="Palmeiras-SP" tipo="mandante" />
+            <equipe gols="2" time="Corinthians-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-12T21:45:00">
+            <equipe gols="1" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="4" time="Vasco da Gama-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-12T21:45:00">
+            <equipe gols="0" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="2" time="Cruzeiro-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-13T19:30:00">
+            <equipe gols="3" time="Sport-PE" tipo="mandante" />
+            <equipe gols="0" time="Chapecoense-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-13T19:30:00">
+            <equipe gols="2" time="São Paulo-SP" tipo="mandante" />
+            <equipe gols="2" time="Atlético-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-13T19:30:00">
+            <equipe gols="0" time="Flamengo-RJ" tipo="mandante" />
+            <equipe gols="1" time="Grêmio-RS" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-13T21:00:00">
+            <equipe gols="1" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="4" time="Coritiba-PR" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="12">
+        <jogo horario="2017-07-08T16:00:00">
+            <equipe gols="1" time="Atlético-GO" tipo="mandante" />
+            <equipe gols="2" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-08T18:00:00">
+            <equipe gols="0" time="Vasco da Gama-RJ" tipo="mandante" />
+            <equipe gols="1" time="Flamengo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-08T19:00:00">
+            <equipe gols="2" time="Corinthians-SP" tipo="mandante" />
+            <equipe gols="0" time="Ponte Preta-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-09T11:00:00">
+            <equipe gols="1" time="Chapecoense-SC" tipo="mandante" />
+            <equipe gols="1" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-09T16:00:00">
+            <equipe gols="3" time="Cruzeiro-MG" tipo="mandante" />
+            <equipe gols="1" time="Palmeiras-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-09T16:00:00">
+            <equipe gols="0" time="Grêmio-RS" tipo="mandante" />
+            <equipe gols="2" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-09T16:00:00">
+            <equipe gols="1" time="Bahia-BA" tipo="mandante" />
+            <equipe gols="1" time="Fluminense-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-09T19:00:00">
+            <equipe gols="3" time="Santos-SP" tipo="mandante" />
+            <equipe gols="2" time="São Paulo-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-09T19:00:00">
+            <equipe gols="1" time="Botafogo-RJ" tipo="mandante" />
+            <equipe gols="1" time="Atlético-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-10T20:00:00">
+            <equipe gols="0" time="Coritiba-PR" tipo="mandante" />
+            <equipe gols="3" time="Sport-PE" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="11">
+        <jogo horario="2017-07-01T16:00:00">
+            <equipe gols="1" time="Palmeiras-SP" tipo="mandante" />
+            <equipe gols="0" time="Grêmio-RS" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-01T19:00:00">
+            <equipe gols="1" time="Atlético-GO" tipo="mandante" />
+            <equipe gols="1" time="Santos-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-02T16:00:00">
+            <equipe gols="2" time="Flamengo-RJ" tipo="mandante" />
+            <equipe gols="0" time="São Paulo-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-02T16:00:00">
+            <equipe gols="1" time="Corinthians-SP" tipo="mandante" />
+            <equipe gols="0" time="Botafogo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-02T16:00:00">
+            <equipe gols="3" time="Atlético-MG" tipo="mandante" />
+            <equipe gols="1" time="Cruzeiro-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-02T16:00:00">
+            <equipe gols="1" time="Sport-PE" tipo="mandante" />
+            <equipe gols="0" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-02T16:00:00">
+            <equipe gols="0" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="0" time="Bahia-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-02T19:00:00">
+            <equipe gols="2" time="Coritiba-PR" tipo="mandante" />
+            <equipe gols="2" time="Vasco da Gama-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-02T19:00:00">
+            <equipe gols="0" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="0" time="Ponte Preta-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-07-03T20:00:00">
+            <equipe gols="3" time="Fluminense-RJ" tipo="mandante" />
+            <equipe gols="3" time="Chapecoense-SC" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="10">
+        <jogo horario="2017-06-24T19:00:00">
+            <equipe gols="0" time="Santos-SP" tipo="mandante" />
+            <equipe gols="1" time="Sport-PE" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-25T11:00:00">
+            <equipe gols="1" time="Vasco da Gama-RJ" tipo="mandante" />
+            <equipe gols="0" time="Atlético-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-25T16:00:00">
+            <equipe gols="1" time="Ponte Preta-SP" tipo="mandante" />
+            <equipe gols="2" time="Palmeiras-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-25T16:00:00">
+            <equipe gols="0" time="Grêmio-RS" tipo="mandante" />
+            <equipe gols="1" time="Corinthians-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-25T16:00:00">
+            <equipe gols="4" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="1" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-25T16:00:00">
+            <equipe gols="2" time="Cruzeiro-MG" tipo="mandante" />
+            <equipe gols="0" time="Coritiba-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-25T16:00:00">
+            <equipe gols="1" time="São Paulo-SP" tipo="mandante" />
+            <equipe gols="1" time="Fluminense-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-25T18:30:00">
+            <equipe gols="0" time="Bahia-BA" tipo="mandante" />
+            <equipe gols="1" time="Flamengo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-25T19:00:00">
+            <equipe gols="0" time="Chapecoense-SC" tipo="mandante" />
+            <equipe gols="1" time="Atlético-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-26T20:00:00">
+            <equipe gols="0" time="Botafogo-RJ" tipo="mandante" />
+            <equipe gols="2" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="9">
+        <jogo horario="2017-06-21T19:30:00">
+            <equipe gols="0" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="2" time="Santos-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-21T21:00:00">
+            <equipe gols="3" time="Botafogo-RJ" tipo="mandante" />
+            <equipe gols="1" time="Vasco da Gama-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-21T21:00:00">
+            <equipe gols="1" time="Palmeiras-SP" tipo="mandante" />
+            <equipe gols="0" time="Atlético-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-21T21:45:00">
+            <equipe gols="0" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="3" time="Fluminense-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-21T21:45:00">
+            <equipe gols="2" time="Atlético-MG" tipo="mandante" />
+            <equipe gols="2" time="Sport-PE" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-21T21:45:00">
+            <equipe gols="1" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="0" time="São Paulo-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-22T19:30:00">
+            <equipe gols="1" time="Ponte Preta-SP" tipo="mandante" />
+            <equipe gols="0" time="Cruzeiro-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-22T19:30:00">
+            <equipe gols="3" time="Corinthians-SP" tipo="mandante" />
+            <equipe gols="0" time="Bahia-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-22T21:00:00">
+            <equipe gols="2" time="Grêmio-RS" tipo="mandante" />
+            <equipe gols="0" time="Coritiba-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-22T21:00:00">
+            <equipe gols="5" time="Flamengo-RJ" tipo="mandante" />
+            <equipe gols="1" time="Chapecoense-SC" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="8">
+        <jogo horario="2017-06-17T16:00:00">
+            <equipe gols="0" time="Atlético-GO" tipo="mandante" />
+            <equipe gols="1" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-17T19:00:00">
+            <equipe gols="1" time="Vasco da Gama-RJ" tipo="mandante" />
+            <equipe gols="0" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-17T21:00:00">
+            <equipe gols="0" time="Santos-SP" tipo="mandante" />
+            <equipe gols="0" time="Ponte Preta-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-18T11:00:00">
+            <equipe gols="0" time="Coritiba-PR" tipo="mandante" />
+            <equipe gols="0" time="Corinthians-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-18T16:00:00">
+            <equipe gols="1" time="São Paulo-SP" tipo="mandante" />
+            <equipe gols="2" time="Atlético-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-18T16:00:00">
+            <equipe gols="2" time="Bahia-BA" tipo="mandante" />
+            <equipe gols="4" time="Palmeiras-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-18T16:00:00">
+            <equipe gols="2" time="Fluminense-RJ" tipo="mandante" />
+            <equipe gols="2" time="Flamengo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-18T16:00:00">
+            <equipe gols="0" time="Chapecoense-SC" tipo="mandante" />
+            <equipe gols="2" time="Botafogo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-18T19:00:00">
+            <equipe gols="1" time="Sport-PE" tipo="mandante" />
+            <equipe gols="3" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-19T20:00:00">
+            <equipe gols="3" time="Cruzeiro-MG" tipo="mandante" />
+            <equipe gols="3" time="Grêmio-RS" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="7">
+        <jogo horario="2017-06-14T19:30:00">
+            <equipe gols="0" time="Atlético-MG" tipo="mandante" />
+            <equipe gols="1" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-14T19:30:00">
+            <equipe gols="3" time="Atlético-GO" tipo="mandante" />
+            <equipe gols="1" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-14T19:30:00">
+            <equipe gols="2" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="2" time="Botafogo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-14T19:30:00">
+            <equipe gols="0" time="Sport-PE" tipo="mandante" />
+            <equipe gols="0" time="São Paulo-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-14T21:00:00">
+            <equipe gols="2" time="Flamengo-RJ" tipo="mandante" />
+            <equipe gols="0" time="Ponte Preta-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-14T21:45:00">
+            <equipe gols="1" time="Corinthians-SP" tipo="mandante" />
+            <equipe gols="0" time="Cruzeiro-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-14T21:45:00">
+            <equipe gols="1" time="Santos-SP" tipo="mandante" />
+            <equipe gols="0" time="Palmeiras-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-14T21:45:00">
+            <equipe gols="2" time="Chapecoense-SC" tipo="mandante" />
+            <equipe gols="1" time="Vasco da Gama-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-15T16:00:00">
+            <equipe gols="0" time="Coritiba-PR" tipo="mandante" />
+            <equipe gols="0" time="Bahia-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-15T21:00:00">
+            <equipe gols="0" time="Fluminense-RJ" tipo="mandante" />
+            <equipe gols="2" time="Grêmio-RS" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="6">
+        <jogo horario="2017-06-10T16:00:00">
+            <equipe gols="3" time="Palmeiras-SP" tipo="mandante" />
+            <equipe gols="1" time="Fluminense-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-10T19:00:00">
+            <equipe gols="2" time="Vasco da Gama-RJ" tipo="mandante" />
+            <equipe gols="1" time="Sport-PE" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-11T11:00:00">
+            <equipe gols="2" time="Botafogo-RJ" tipo="mandante" />
+            <equipe gols="2" time="Coritiba-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-11T16:00:00">
+            <equipe gols="3" time="Corinthians-SP" tipo="mandante" />
+            <equipe gols="2" time="São Paulo-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-11T16:00:00">
+            <equipe gols="2" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="0" time="Atlético-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-11T16:00:00">
+            <equipe gols="3" time="Ponte Preta-SP" tipo="mandante" />
+            <equipe gols="2" time="Chapecoense-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-11T16:00:00">
+            <equipe gols="1" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="1" time="Flamengo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-11T18:30:00">
+            <equipe gols="2" time="Cruzeiro-MG" tipo="mandante" />
+            <equipe gols="0" time="Atlético-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-11T19:00:00">
+            <equipe gols="0" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="2" time="Santos-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-12T20:00:00">
+            <equipe gols="1" time="Grêmio-RS" tipo="mandante" />
+            <equipe gols="0" time="Bahia-BA" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="5">
+        <jogo horario="2017-06-06T20:00:00">
+            <equipe gols="1" time="Fluminense-RJ" tipo="mandante" />
+            <equipe gols="1" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-07T19:30:00">
+            <equipe gols="1" time="Atlético-MG" tipo="mandante" />
+            <equipe gols="0" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-07T19:30:00">
+            <equipe gols="1" time="Coritiba-PR" tipo="mandante" />
+            <equipe gols="0" time="Palmeiras-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-07T21:00:00">
+            <equipe gols="1" time="Santos-SP" tipo="mandante" />
+            <equipe gols="0" time="Botafogo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-07T21:45:00">
+            <equipe gols="2" time="Sport-PE" tipo="mandante" />
+            <equipe gols="0" time="Flamengo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-07T21:45:00">
+            <equipe gols="2" time="Vasco da Gama-RJ" tipo="mandante" />
+            <equipe gols="5" time="Corinthians-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-08T19:30:00">
+            <equipe gols="3" time="Atlético-GO" tipo="mandante" />
+            <equipe gols="0" time="Ponte Preta-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-08T19:30:00">
+            <equipe gols="2" time="São Paulo-SP" tipo="mandante" />
+            <equipe gols="0" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-08T20:00:00">
+            <equipe gols="3" time="Chapecoense-SC" tipo="mandante" />
+            <equipe gols="6" time="Grêmio-RS" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-08T21:00:00">
+            <equipe gols="1" time="Bahia-BA" tipo="mandante" />
+            <equipe gols="0" time="Cruzeiro-MG" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="4">
+        <jogo horario="2017-06-03T16:00:00">
+            <equipe gols="1" time="Coritiba-PR" tipo="mandante" />
+            <equipe gols="0" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-03T18:00:00">
+            <equipe gols="2" time="Fluminense-RJ" tipo="mandante" />
+            <equipe gols="1" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-03T19:00:00">
+            <equipe gols="2" time="Corinthians-SP" tipo="mandante" />
+            <equipe gols="0" time="Santos-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-04T11:00:00">
+            <equipe gols="0" time="Flamengo-RJ" tipo="mandante" />
+            <equipe gols="0" time="Botafogo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-04T11:00:00">
+            <equipe gols="1" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="0" time="Sport-PE" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-04T16:00:00">
+            <equipe gols="1" time="Ponte Preta-SP" tipo="mandante" />
+            <equipe gols="0" time="São Paulo-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-04T16:00:00">
+            <equipe gols="2" time="Grêmio-RS" tipo="mandante" />
+            <equipe gols="0" time="Vasco da Gama-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-04T16:00:00">
+            <equipe gols="0" time="Palmeiras-SP" tipo="mandante" />
+            <equipe gols="0" time="Atlético-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-04T19:00:00">
+            <equipe gols="0" time="Cruzeiro-MG" tipo="mandante" />
+            <equipe gols="2" time="Chapecoense-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-06-05T20:00:00">
+            <equipe gols="3" time="Bahia-BA" tipo="mandante" />
+            <equipe gols="0" time="Atlético-GO" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="3">
+        <jogo horario="2017-05-27T16:00:00">
+            <equipe gols="3" time="Vasco da Gama-RJ" tipo="mandante" />
+            <equipe gols="2" time="Fluminense-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-05-27T19:00:00">
+            <equipe gols="2" time="São Paulo-SP" tipo="mandante" />
+            <equipe gols="0" time="Palmeiras-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-05-27T21:00:00">
+            <equipe gols="0" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="1" time="Coritiba-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-05-28T11:00:00">
+            <equipe gols="2" time="Atlético-MG" tipo="mandante" />
+            <equipe gols="2" time="Ponte Preta-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-05-28T16:00:00">
+            <equipe gols="1" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="1" time="Flamengo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-05-28T16:00:00">
+            <equipe gols="0" time="Santos-SP" tipo="mandante" />
+            <equipe gols="1" time="Cruzeiro-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-05-28T16:00:00">
+            <equipe gols="0" time="Atlético-GO" tipo="mandante" />
+            <equipe gols="1" time="Corinthians-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-05-28T18:00:00">
+            <equipe gols="4" time="Sport-PE" tipo="mandante" />
+            <equipe gols="3" time="Grêmio-RS" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-05-28T19:00:00">
+            <equipe gols="1" time="Botafogo-RJ" tipo="mandante" />
+            <equipe gols="0" time="Bahia-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-05-29T20:00:00">
+            <equipe gols="2" time="Chapecoense-SC" tipo="mandante" />
+            <equipe gols="0" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="2">
+        <jogo horario="2017-05-20T16:00:00">
+            <equipe gols="1" time="Santos-SP" tipo="mandante" />
+            <equipe gols="0" time="Coritiba-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-05-20T19:00:00">
+            <equipe gols="0" time="Atlético-GO" tipo="mandante" />
+            <equipe gols="3" time="Flamengo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-05-20T19:00:00">
+            <equipe gols="1" time="Chapecoense-SC" tipo="mandante" />
+            <equipe gols="0" time="Palmeiras-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-05-21T11:00:00">
+            <equipe gols="2" time="Vasco da Gama-RJ" tipo="mandante" />
+            <equipe gols="1" time="Bahia-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-05-21T16:00:00">
+            <equipe gols="1" time="Atlético-MG" tipo="mandante" />
+            <equipe gols="2" time="Fluminense-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-05-21T16:00:00">
+            <equipe gols="0" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="2" time="Grêmio-RS" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-05-21T16:00:00">
+            <equipe gols="0" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="1" time="Corinthians-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-05-21T18:00:00">
+            <equipe gols="2" time="Botafogo-RJ" tipo="mandante" />
+            <equipe gols="0" time="Ponte Preta-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-05-21T19:00:00">
+            <equipe gols="1" time="Sport-PE" tipo="mandante" />
+            <equipe gols="1" time="Cruzeiro-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-05-22T20:00:00">
+            <equipe gols="2" time="São Paulo-SP" tipo="mandante" />
+            <equipe gols="0" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="1">
+        <jogo horario="2017-05-13T16:00:00">
+            <equipe gols="1" time="Flamengo-RJ" tipo="mandante" />
+            <equipe gols="1" time="Atlético-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-05-13T19:00:00">
+            <equipe gols="1" time="Corinthians-SP" tipo="mandante" />
+            <equipe gols="1" time="Chapecoense-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-05-14T11:00:00">
+            <equipe gols="3" time="Fluminense-RJ" tipo="mandante" />
+            <equipe gols="2" time="Santos-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-05-14T16:00:00">
+            <equipe gols="4" time="Palmeiras-SP" tipo="mandante" />
+            <equipe gols="0" time="Vasco da Gama-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-05-14T16:00:00">
+            <equipe gols="1" time="Cruzeiro-MG" tipo="mandante" />
+            <equipe gols="0" time="São Paulo-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-05-14T16:00:00">
+            <equipe gols="6" time="Bahia-BA" tipo="mandante" />
+            <equipe gols="2" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-05-14T16:00:00">
+            <equipe gols="4" time="Ponte Preta-SP" tipo="mandante" />
+            <equipe gols="0" time="Sport-PE" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-05-14T16:00:00">
+            <equipe gols="0" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="0" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-05-14T19:00:00">
+            <equipe gols="2" time="Grêmio-RS" tipo="mandante" />
+            <equipe gols="0" time="Botafogo-RJ" tipo="visitante" />
+        </jogo>
+        <jogo horario="2017-05-15T20:00:00">
+            <equipe gols="4" time="Coritiba-PR" tipo="mandante" />
+            <equipe gols="1" time="Atlético-GO" tipo="visitante" />
+        </jogo>
+    </rodada>
+</cb>

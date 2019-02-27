@@ -1,0 +1,1598 @@
+<cb ano="2012" serie="B" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CB_v2.xsd">
+    <rodada n="38">
+        <jogo horario="2012-11-23T21:00:00">
+            <equipe gols="3" time="América-MG" tipo="mandante" />
+            <equipe gols="1" time="Betim-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-24T16:20:00">
+            <equipe gols="1" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="1" time="Paraná-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-24T16:20:00">
+            <equipe gols="3" time="Bragantino-SP" tipo="mandante" />
+            <equipe gols="0" time="Boa-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-24T16:20:00">
+            <equipe gols="2" time="A.b.c.-RN" tipo="mandante" />
+            <equipe gols="2" time="América-RN" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-24T16:20:00">
+            <equipe gols="2" time="A.s.a.-AL" tipo="mandante" />
+            <equipe gols="4" time="C.r.b.-AL" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-24T16:20:00">
+            <equipe gols="1" time="Guarani-SP" tipo="mandante" />
+            <equipe gols="2" time="São Caetano-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-24T16:20:00">
+            <equipe gols="1" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="1" time="Criciuma-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-24T16:20:00">
+            <equipe gols="2" time="Goiás-GO" tipo="mandante" />
+            <equipe gols="1" time="Joinville-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-24T16:20:00">
+            <equipe gols="2" time="Guaratinguetá-SP" tipo="mandante" />
+            <equipe gols="1" time="Grêmio Barueri-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-24T16:20:00">
+            <equipe gols="1" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="1" time="Ceará-CE" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="37">
+        <jogo horario="2012-11-16T21:00:00">
+            <equipe gols="2" time="Paraná-PR" tipo="mandante" />
+            <equipe gols="0" time="A.s.a.-AL" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-17T16:20:00">
+            <equipe gols="2" time="Grêmio Barueri-SP" tipo="mandante" />
+            <equipe gols="0" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-17T16:20:00">
+            <equipe gols="1" time="América-RN" tipo="mandante" />
+            <equipe gols="1" time="América-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-17T16:20:00">
+            <equipe gols="1" time="Ceará-CE" tipo="mandante" />
+            <equipe gols="2" time="Bragantino-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-17T16:20:00">
+            <equipe gols="2" time="Betim-MG" tipo="mandante" />
+            <equipe gols="3" time="Guaratinguetá-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-17T16:20:00">
+            <equipe gols="1" time="Joinville-SC" tipo="mandante" />
+            <equipe gols="1" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-17T16:20:00">
+            <equipe gols="1" time="São Caetano-SP" tipo="mandante" />
+            <equipe gols="1" time="Goiás-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-17T16:20:00">
+            <equipe gols="0" time="Criciuma-SC" tipo="mandante" />
+            <equipe gols="0" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-17T16:20:00">
+            <equipe gols="2" time="C.r.b.-AL" tipo="mandante" />
+            <equipe gols="1" time="Guarani-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-17T16:20:00">
+            <equipe gols="0" time="Boa-MG" tipo="mandante" />
+            <equipe gols="0" time="A.b.c.-RN" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="36">
+        <jogo horario="2012-11-09T19:30:00">
+            <equipe gols="4" time="São Caetano-SP" tipo="mandante" />
+            <equipe gols="2" time="Boa-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-09T19:30:00">
+            <equipe gols="1" time="Bragantino-SP" tipo="mandante" />
+            <equipe gols="0" time="Joinville-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-09T21:50:00">
+            <equipe gols="1" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="0" time="Guarani-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-09T21:50:00">
+            <equipe gols="2" time="A.s.a.-AL" tipo="mandante" />
+            <equipe gols="3" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-10T16:20:00">
+            <equipe gols="3" time="Goiás-GO" tipo="mandante" />
+            <equipe gols="0" time="Grêmio Barueri-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-10T16:20:00">
+            <equipe gols="1" time="Guaratinguetá-SP" tipo="mandante" />
+            <equipe gols="0" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-10T16:20:00">
+            <equipe gols="1" time="América-RN" tipo="mandante" />
+            <equipe gols="4" time="Criciuma-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-10T17:00:00">
+            <equipe gols="3" time="América-MG" tipo="mandante" />
+            <equipe gols="3" time="A.b.c.-RN" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-10T17:00:00">
+            <equipe gols="2" time="Paraná-PR" tipo="mandante" />
+            <equipe gols="0" time="Betim-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-10T21:00:00">
+            <equipe gols="1" time="Ceará-CE" tipo="mandante" />
+            <equipe gols="2" time="C.r.b.-AL" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="35">
+        <jogo horario="2012-11-06T16:00:00">
+            <equipe gols="1" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="1" time="América-RN" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-06T19:30:00">
+            <equipe gols="2" time="Joinville-SC" tipo="mandante" />
+            <equipe gols="1" time="Guaratinguetá-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-06T19:30:00">
+            <equipe gols="0" time="Criciuma-SC" tipo="mandante" />
+            <equipe gols="2" time="São Caetano-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-06T19:30:00">
+            <equipe gols="2" time="Guarani-SP" tipo="mandante" />
+            <equipe gols="1" time="A.s.a.-AL" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-06T19:30:00">
+            <equipe gols="0" time="Grêmio Barueri-SP" tipo="mandante" />
+            <equipe gols="0" time="Ceará-CE" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-06T21:50:00">
+            <equipe gols="0" time="C.r.b.-AL" tipo="mandante" />
+            <equipe gols="2" time="Paraná-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-06T21:50:00">
+            <equipe gols="2" time="Betim-MG" tipo="mandante" />
+            <equipe gols="1" time="Bragantino-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-06T21:50:00">
+            <equipe gols="5" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="3" time="América-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-06T21:50:00">
+            <equipe gols="1" time="A.b.c.-RN" tipo="mandante" />
+            <equipe gols="2" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-06T21:50:00">
+            <equipe gols="2" time="Boa-MG" tipo="mandante" />
+            <equipe gols="2" time="Goiás-GO" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="34">
+        <jogo horario="2012-10-30T21:00:00">
+            <equipe gols="1" time="Paraná-PR" tipo="mandante" />
+            <equipe gols="2" time="A.b.c.-RN" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-30T21:00:00">
+            <equipe gols="0" time="América-MG" tipo="mandante" />
+            <equipe gols="1" time="A.s.a.-AL" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-30T21:00:00">
+            <equipe gols="4" time="Goiás-GO" tipo="mandante" />
+            <equipe gols="0" time="Betim-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-02T21:00:00">
+            <equipe gols="2" time="Guaratinguetá-SP" tipo="mandante" />
+            <equipe gols="1" time="Guarani-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-02T21:00:00">
+            <equipe gols="0" time="Ceará-CE" tipo="mandante" />
+            <equipe gols="1" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-02T21:00:00">
+            <equipe gols="2" time="C.r.b.-AL" tipo="mandante" />
+            <equipe gols="1" time="Grêmio Barueri-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-03T16:20:00">
+            <equipe gols="1" time="São Caetano-SP" tipo="mandante" />
+            <equipe gols="3" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-03T16:20:00">
+            <equipe gols="3" time="Bragantino-SP" tipo="mandante" />
+            <equipe gols="0" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-03T16:20:00">
+            <equipe gols="2" time="Criciuma-SC" tipo="mandante" />
+            <equipe gols="3" time="Joinville-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-11-03T21:00:00">
+            <equipe gols="4" time="América-RN" tipo="mandante" />
+            <equipe gols="4" time="Boa-MG" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="33">
+        <jogo horario="2012-10-26T19:30:00">
+            <equipe gols="0" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="1" time="São Caetano-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-26T19:30:00">
+            <equipe gols="3" time="A.b.c.-RN" tipo="mandante" />
+            <equipe gols="2" time="Goiás-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-26T21:00:00">
+            <equipe gols="2" time="Grêmio Barueri-SP" tipo="mandante" />
+            <equipe gols="3" time="América-RN" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-26T21:00:00">
+            <equipe gols="1" time="Boa-MG" tipo="mandante" />
+            <equipe gols="0" time="Ceará-CE" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-26T21:50:00">
+            <equipe gols="3" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="1" time="Paraná-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-27T14:00:00">
+            <equipe gols="3" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="0" time="Guaratinguetá-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-27T16:00:00">
+            <equipe gols="1" time="Guarani-SP" tipo="mandante" />
+            <equipe gols="2" time="Criciuma-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-27T16:00:00">
+            <equipe gols="3" time="Betim-MG" tipo="mandante" />
+            <equipe gols="2" time="C.r.b.-AL" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-27T16:00:00">
+            <equipe gols="2" time="Joinville-SC" tipo="mandante" />
+            <equipe gols="2" time="América-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-27T16:00:00">
+            <equipe gols="1" time="A.s.a.-AL" tipo="mandante" />
+            <equipe gols="1" time="Bragantino-SP" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="32">
+        <jogo horario="2012-10-23T15:00:00">
+            <equipe gols="1" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="1" time="Guarani-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-23T19:30:00">
+            <equipe gols="0" time="C.r.b.-AL" tipo="mandante" />
+            <equipe gols="1" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-23T19:30:00">
+            <equipe gols="4" time="Goiás-GO" tipo="mandante" />
+            <equipe gols="0" time="A.s.a.-AL" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-23T19:30:00">
+            <equipe gols="3" time="Criciuma-SC" tipo="mandante" />
+            <equipe gols="4" time="Grêmio Barueri-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-23T19:30:00">
+            <equipe gols="1" time="São Caetano-SP" tipo="mandante" />
+            <equipe gols="1" time="Betim-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-23T19:30:00">
+            <equipe gols="3" time="América-RN" tipo="mandante" />
+            <equipe gols="1" time="Joinville-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-23T21:50:00">
+            <equipe gols="2" time="Guaratinguetá-SP" tipo="mandante" />
+            <equipe gols="1" time="A.b.c.-RN" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-23T21:50:00">
+            <equipe gols="3" time="América-MG" tipo="mandante" />
+            <equipe gols="2" time="Boa-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-23T21:50:00">
+            <equipe gols="0" time="Ceará-CE" tipo="mandante" />
+            <equipe gols="1" time="Paraná-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-23T21:50:00">
+            <equipe gols="1" time="Bragantino-SP" tipo="mandante" />
+            <equipe gols="0" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="31">
+        <jogo horario="2012-10-19T19:30:00">
+            <equipe gols="3" time="A.s.a.-AL" tipo="mandante" />
+            <equipe gols="0" time="Ceará-CE" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-19T19:30:00">
+            <equipe gols="2" time="Grêmio Barueri-SP" tipo="mandante" />
+            <equipe gols="2" time="São Caetano-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-19T19:30:00">
+            <equipe gols="4" time="Betim-MG" tipo="mandante" />
+            <equipe gols="0" time="América-RN" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-19T21:50:00">
+            <equipe gols="1" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="4" time="Goiás-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-20T16:00:00">
+            <equipe gols="0" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="2" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-20T16:00:00">
+            <equipe gols="1" time="Paraná-PR" tipo="mandante" />
+            <equipe gols="1" time="Criciuma-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-20T16:00:00">
+            <equipe gols="1" time="A.b.c.-RN" tipo="mandante" />
+            <equipe gols="0" time="Bragantino-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-20T16:00:00">
+            <equipe gols="3" time="Joinville-SC" tipo="mandante" />
+            <equipe gols="1" time="C.r.b.-AL" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-20T16:00:00">
+            <equipe gols="0" time="Guarani-SP" tipo="mandante" />
+            <equipe gols="3" time="América-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-20T21:00:00">
+            <equipe gols="0" time="Boa-MG" tipo="mandante" />
+            <equipe gols="1" time="Guaratinguetá-SP" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="30">
+        <jogo horario="2012-10-16T15:00:00">
+            <equipe gols="3" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="1" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-16T19:30:00">
+            <equipe gols="2" time="América-RN" tipo="mandante" />
+            <equipe gols="1" time="Paraná-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-16T19:30:00">
+            <equipe gols="2" time="Bragantino-SP" tipo="mandante" />
+            <equipe gols="2" time="Grêmio Barueri-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-16T19:30:00">
+            <equipe gols="2" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="0" time="A.s.a.-AL" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-16T19:30:00">
+            <equipe gols="2" time="São Caetano-SP" tipo="mandante" />
+            <equipe gols="0" time="Ceará-CE" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-16T19:30:00">
+            <equipe gols="5" time="Goiás-GO" tipo="mandante" />
+            <equipe gols="0" time="Guarani-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-16T21:50:00">
+            <equipe gols="2" time="Criciuma-SC" tipo="mandante" />
+            <equipe gols="0" time="A.b.c.-RN" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-16T21:50:00">
+            <equipe gols="1" time="Guaratinguetá-SP" tipo="mandante" />
+            <equipe gols="2" time="América-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-16T21:50:00">
+            <equipe gols="1" time="Betim-MG" tipo="mandante" />
+            <equipe gols="0" time="Joinville-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-16T21:50:00">
+            <equipe gols="0" time="C.r.b.-AL" tipo="mandante" />
+            <equipe gols="0" time="Boa-MG" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="29">
+        <jogo horario="2012-10-09T21:00:00">
+            <equipe gols="2" time="Grêmio Barueri-SP" tipo="mandante" />
+            <equipe gols="0" time="Betim-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-09T21:00:00">
+            <equipe gols="3" time="A.s.a.-AL" tipo="mandante" />
+            <equipe gols="1" time="Guaratinguetá-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-09T21:00:00">
+            <equipe gols="0" time="Joinville-SC" tipo="mandante" />
+            <equipe gols="0" time="São Caetano-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-12T21:00:00">
+            <equipe gols="0" time="A.b.c.-RN" tipo="mandante" />
+            <equipe gols="1" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-12T21:00:00">
+            <equipe gols="1" time="Guarani-SP" tipo="mandante" />
+            <equipe gols="2" time="Bragantino-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-13T16:00:00">
+            <equipe gols="1" time="América-MG" tipo="mandante" />
+            <equipe gols="2" time="Goiás-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-13T16:00:00">
+            <equipe gols="4" time="Ceará-CE" tipo="mandante" />
+            <equipe gols="0" time="América-RN" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-13T16:00:00">
+            <equipe gols="3" time="Paraná-PR" tipo="mandante" />
+            <equipe gols="1" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-13T16:00:00">
+            <equipe gols="0" time="Boa-MG" tipo="mandante" />
+            <equipe gols="4" time="Criciuma-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-13T21:00:00">
+            <equipe gols="1" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="0" time="C.r.b.-AL" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="28">
+        <jogo horario="2012-10-02T19:30:00">
+            <equipe gols="1" time="A.s.a.-AL" tipo="mandante" />
+            <equipe gols="0" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-02T21:00:00">
+            <equipe gols="1" time="Goiás-GO" tipo="mandante" />
+            <equipe gols="0" time="Bragantino-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-02T21:00:00">
+            <equipe gols="1" time="São Caetano-SP" tipo="mandante" />
+            <equipe gols="0" time="Guaratinguetá-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-05T19:30:00">
+            <equipe gols="1" time="Grêmio Barueri-SP" tipo="mandante" />
+            <equipe gols="1" time="Joinville-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-05T19:30:00">
+            <equipe gols="0" time="Betim-MG" tipo="mandante" />
+            <equipe gols="0" time="Guarani-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-05T19:30:00">
+            <equipe gols="3" time="América-RN" tipo="mandante" />
+            <equipe gols="3" time="C.r.b.-AL" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-05T21:00:00">
+            <equipe gols="2" time="Criciuma-SC" tipo="mandante" />
+            <equipe gols="1" time="Ceará-CE" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-05T21:00:00">
+            <equipe gols="2" time="Boa-MG" tipo="mandante" />
+            <equipe gols="1" time="Paraná-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-06T14:00:00">
+            <equipe gols="5" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="4" time="América-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-10-06T16:00:00">
+            <equipe gols="1" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="0" time="A.b.c.-RN" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="27">
+        <jogo horario="2012-09-25T19:30:00">
+            <equipe gols="1" time="A.b.c.-RN" tipo="mandante" />
+            <equipe gols="1" time="A.s.a.-AL" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-25T21:00:00">
+            <equipe gols="3" time="Joinville-SC" tipo="mandante" />
+            <equipe gols="0" time="Boa-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-25T21:00:00">
+            <equipe gols="1" time="América-MG" tipo="mandante" />
+            <equipe gols="2" time="Grêmio Barueri-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-28T19:30:00">
+            <equipe gols="2" time="Paraná-PR" tipo="mandante" />
+            <equipe gols="1" time="São Caetano-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-28T21:00:00">
+            <equipe gols="0" time="C.r.b.-AL" tipo="mandante" />
+            <equipe gols="2" time="Criciuma-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-28T21:00:00">
+            <equipe gols="0" time="Guaratinguetá-SP" tipo="mandante" />
+            <equipe gols="3" time="Goiás-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-29T16:00:00">
+            <equipe gols="2" time="Bragantino-SP" tipo="mandante" />
+            <equipe gols="1" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-29T16:00:00">
+            <equipe gols="0" time="Guarani-SP" tipo="mandante" />
+            <equipe gols="0" time="América-RN" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-29T16:00:00">
+            <equipe gols="2" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="0" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-29T21:00:00">
+            <equipe gols="1" time="Ceará-CE" tipo="mandante" />
+            <equipe gols="1" time="Betim-MG" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="26">
+        <jogo horario="2012-09-18T21:00:00">
+            <equipe gols="2" time="Bragantino-SP" tipo="mandante" />
+            <equipe gols="0" time="América-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-21T19:30:00">
+            <equipe gols="2" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="0" time="Guaratinguetá-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-21T21:00:00">
+            <equipe gols="3" time="Joinville-SC" tipo="mandante" />
+            <equipe gols="1" time="Paraná-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-21T21:00:00">
+            <equipe gols="3" time="A.b.c.-RN" tipo="mandante" />
+            <equipe gols="1" time="Guarani-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-22T15:00:00">
+            <equipe gols="2" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="1" time="Ceará-CE" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-22T16:00:00">
+            <equipe gols="1" time="Grêmio Barueri-SP" tipo="mandante" />
+            <equipe gols="2" time="Boa-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-22T16:00:00">
+            <equipe gols="2" time="Betim-MG" tipo="mandante" />
+            <equipe gols="3" time="Criciuma-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-22T16:00:00">
+            <equipe gols="3" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="1" time="Goiás-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-22T16:00:00">
+            <equipe gols="3" time="São Caetano-SP" tipo="mandante" />
+            <equipe gols="2" time="C.r.b.-AL" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-22T21:00:00">
+            <equipe gols="0" time="A.s.a.-AL" tipo="mandante" />
+            <equipe gols="2" time="América-RN" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="25">
+        <jogo horario="2012-09-14T19:30:00">
+            <equipe gols="2" time="Criciuma-SC" tipo="mandante" />
+            <equipe gols="1" time="A.s.a.-AL" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-14T19:30:00">
+            <equipe gols="1" time="Paraná-PR" tipo="mandante" />
+            <equipe gols="1" time="Grêmio Barueri-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-14T21:00:00">
+            <equipe gols="2" time="Guaratinguetá-SP" tipo="mandante" />
+            <equipe gols="0" time="Bragantino-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-14T21:00:00">
+            <equipe gols="0" time="América-RN" tipo="mandante" />
+            <equipe gols="2" time="São Caetano-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-14T21:50:00">
+            <equipe gols="1" time="América-MG" tipo="mandante" />
+            <equipe gols="0" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-15T16:00:00">
+            <equipe gols="4" time="Ceará-CE" tipo="mandante" />
+            <equipe gols="3" time="Joinville-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-15T16:00:00">
+            <equipe gols="3" time="C.r.b.-AL" tipo="mandante" />
+            <equipe gols="3" time="A.b.c.-RN" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-15T16:00:00">
+            <equipe gols="0" time="Guarani-SP" tipo="mandante" />
+            <equipe gols="0" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-15T16:00:00">
+            <equipe gols="3" time="Goiás-GO" tipo="mandante" />
+            <equipe gols="2" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-15T21:00:00">
+            <equipe gols="2" time="Boa-MG" tipo="mandante" />
+            <equipe gols="1" time="Betim-MG" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="24">
+        <jogo horario="2012-09-11T15:00:00">
+            <equipe gols="4" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="1" time="C.r.b.-AL" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-11T19:30:00">
+            <equipe gols="1" time="A.s.a.-AL" tipo="mandante" />
+            <equipe gols="0" time="Joinville-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-11T19:30:00">
+            <equipe gols="3" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="2" time="Boa-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-11T19:30:00">
+            <equipe gols="2" time="América-MG" tipo="mandante" />
+            <equipe gols="5" time="São Caetano-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-11T19:30:00">
+            <equipe gols="2" time="Guaratinguetá-SP" tipo="mandante" />
+            <equipe gols="0" time="Paraná-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-11T19:30:00">
+            <equipe gols="2" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="1" time="Betim-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-11T21:50:00">
+            <equipe gols="0" time="A.b.c.-RN" tipo="mandante" />
+            <equipe gols="1" time="Ceará-CE" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-11T21:50:00">
+            <equipe gols="1" time="Bragantino-SP" tipo="mandante" />
+            <equipe gols="0" time="América-RN" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-11T21:50:00">
+            <equipe gols="1" time="Goiás-GO" tipo="mandante" />
+            <equipe gols="0" time="Criciuma-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-11T21:50:00">
+            <equipe gols="1" time="Guarani-SP" tipo="mandante" />
+            <equipe gols="0" time="Grêmio Barueri-SP" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="23">
+        <jogo horario="2012-09-07T19:30:00">
+            <equipe gols="2" time="Paraná-PR" tipo="mandante" />
+            <equipe gols="0" time="Bragantino-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-07T19:30:00">
+            <equipe gols="1" time="Ceará-CE" tipo="mandante" />
+            <equipe gols="0" time="Guarani-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-07T19:30:00">
+            <equipe gols="4" time="América-RN" tipo="mandante" />
+            <equipe gols="1" time="Guaratinguetá-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-07T19:30:00">
+            <equipe gols="3" time="Boa-MG" tipo="mandante" />
+            <equipe gols="2" time="A.s.a.-AL" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-07T21:50:00">
+            <equipe gols="0" time="Grêmio Barueri-SP" tipo="mandante" />
+            <equipe gols="6" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-08T16:00:00">
+            <equipe gols="0" time="C.r.b.-AL" tipo="mandante" />
+            <equipe gols="2" time="Goiás-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-08T16:00:00">
+            <equipe gols="1" time="Joinville-SC" tipo="mandante" />
+            <equipe gols="0" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-08T16:00:00">
+            <equipe gols="0" time="Criciuma-SC" tipo="mandante" />
+            <equipe gols="4" time="América-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-08T16:00:00">
+            <equipe gols="1" time="Betim-MG" tipo="mandante" />
+            <equipe gols="1" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-08T21:00:00">
+            <equipe gols="0" time="São Caetano-SP" tipo="mandante" />
+            <equipe gols="1" time="A.b.c.-RN" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="22">
+        <jogo horario="2012-09-04T15:00:00">
+            <equipe gols="2" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="1" time="Boa-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-04T19:30:00">
+            <equipe gols="0" time="América-MG" tipo="mandante" />
+            <equipe gols="0" time="Paraná-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-04T19:30:00">
+            <equipe gols="2" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="2" time="Criciuma-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-04T19:30:00">
+            <equipe gols="2" time="Guarani-SP" tipo="mandante" />
+            <equipe gols="1" time="Joinville-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-04T19:30:00">
+            <equipe gols="2" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="2" time="América-RN" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-04T21:50:00">
+            <equipe gols="0" time="Goiás-GO" tipo="mandante" />
+            <equipe gols="0" time="Ceará-CE" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-04T21:50:00">
+            <equipe gols="1" time="Guaratinguetá-SP" tipo="mandante" />
+            <equipe gols="2" time="C.r.b.-AL" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-04T21:50:00">
+            <equipe gols="2" time="A.b.c.-RN" tipo="mandante" />
+            <equipe gols="1" time="Grêmio Barueri-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-04T21:50:00">
+            <equipe gols="2" time="Bragantino-SP" tipo="mandante" />
+            <equipe gols="3" time="São Caetano-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-04T21:50:00">
+            <equipe gols="3" time="A.s.a.-AL" tipo="mandante" />
+            <equipe gols="0" time="Betim-MG" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="21">
+        <jogo horario="2012-08-31T19:30:00">
+            <equipe gols="3" time="Criciuma-SC" tipo="mandante" />
+            <equipe gols="2" time="Bragantino-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-31T19:30:00">
+            <equipe gols="1" time="Boa-MG" tipo="mandante" />
+            <equipe gols="2" time="Guarani-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-31T21:00:00">
+            <equipe gols="1" time="Grêmio Barueri-SP" tipo="mandante" />
+            <equipe gols="0" time="A.s.a.-AL" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-31T21:00:00">
+            <equipe gols="1" time="Ceará-CE" tipo="mandante" />
+            <equipe gols="1" time="Guaratinguetá-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-31T21:50:00">
+            <equipe gols="1" time="Betim-MG" tipo="mandante" />
+            <equipe gols="1" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-01T16:00:00">
+            <equipe gols="2" time="América-RN" tipo="mandante" />
+            <equipe gols="2" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-01T16:00:00">
+            <equipe gols="0" time="Joinville-SC" tipo="mandante" />
+            <equipe gols="0" time="A.b.c.-RN" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-01T16:00:00">
+            <equipe gols="1" time="São Caetano-SP" tipo="mandante" />
+            <equipe gols="0" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-01T16:00:00">
+            <equipe gols="1" time="Paraná-PR" tipo="mandante" />
+            <equipe gols="3" time="Goiás-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-09-01T21:00:00">
+            <equipe gols="0" time="C.r.b.-AL" tipo="mandante" />
+            <equipe gols="1" time="América-MG" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="20">
+        <jogo horario="2012-08-28T19:30:00">
+            <equipe gols="0" time="Guarani-SP" tipo="mandante" />
+            <equipe gols="0" time="Paraná-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-28T19:30:00">
+            <equipe gols="0" time="Bragantino-SP" tipo="mandante" />
+            <equipe gols="2" time="C.r.b.-AL" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-28T19:30:00">
+            <equipe gols="1" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="0" time="Grêmio Barueri-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-28T19:30:00">
+            <equipe gols="1" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="1" time="Joinville-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-28T19:30:00">
+            <equipe gols="2" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="1" time="Boa-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-28T21:50:00">
+            <equipe gols="1" time="Goiás-GO" tipo="mandante" />
+            <equipe gols="0" time="América-RN" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-28T21:50:00">
+            <equipe gols="2" time="Guaratinguetá-SP" tipo="mandante" />
+            <equipe gols="1" time="Criciuma-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-28T21:50:00">
+            <equipe gols="1" time="América-MG" tipo="mandante" />
+            <equipe gols="3" time="Ceará-CE" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-28T21:50:00">
+            <equipe gols="2" time="A.b.c.-RN" tipo="mandante" />
+            <equipe gols="2" time="Betim-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-28T21:50:00">
+            <equipe gols="4" time="A.s.a.-AL" tipo="mandante" />
+            <equipe gols="1" time="São Caetano-SP" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="19">
+        <jogo horario="2012-08-21T21:00:00">
+            <equipe gols="2" time="Criciuma-SC" tipo="mandante" />
+            <equipe gols="0" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-21T21:00:00">
+            <equipe gols="2" time="Grêmio Barueri-SP" tipo="mandante" />
+            <equipe gols="3" time="Guaratinguetá-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-21T21:00:00">
+            <equipe gols="1" time="Betim-MG" tipo="mandante" />
+            <equipe gols="0" time="América-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-24T21:00:00">
+            <equipe gols="1" time="Ceará-CE" tipo="mandante" />
+            <equipe gols="3" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-25T16:00:00">
+            <equipe gols="1" time="São Caetano-SP" tipo="mandante" />
+            <equipe gols="2" time="Guarani-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-25T16:00:00">
+            <equipe gols="1" time="Joinville-SC" tipo="mandante" />
+            <equipe gols="0" time="Goiás-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-25T16:00:00">
+            <equipe gols="1" time="Paraná-PR" tipo="mandante" />
+            <equipe gols="2" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-25T16:20:00">
+            <equipe gols="0" time="C.r.b.-AL" tipo="mandante" />
+            <equipe gols="1" time="A.s.a.-AL" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-25T16:20:00">
+            <equipe gols="1" time="América-RN" tipo="mandante" />
+            <equipe gols="0" time="A.b.c.-RN" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-25T21:00:00">
+            <equipe gols="3" time="Boa-MG" tipo="mandante" />
+            <equipe gols="0" time="Bragantino-SP" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="18">
+        <jogo horario="2012-08-17T19:30:00">
+            <equipe gols="2" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="1" time="Joinville-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-17T21:00:00">
+            <equipe gols="2" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="1" time="Grêmio Barueri-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-17T21:00:00">
+            <equipe gols="3" time="Guaratinguetá-SP" tipo="mandante" />
+            <equipe gols="1" time="Betim-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-17T21:00:00">
+            <equipe gols="4" time="Guarani-SP" tipo="mandante" />
+            <equipe gols="0" time="C.r.b.-AL" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-17T21:50:00">
+            <equipe gols="1" time="América-MG" tipo="mandante" />
+            <equipe gols="1" time="América-RN" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-18T16:20:00">
+            <equipe gols="1" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="0" time="Criciuma-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-18T16:20:00">
+            <equipe gols="0" time="Goiás-GO" tipo="mandante" />
+            <equipe gols="0" time="São Caetano-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-18T16:20:00">
+            <equipe gols="1" time="A.b.c.-RN" tipo="mandante" />
+            <equipe gols="2" time="Boa-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-18T16:20:00">
+            <equipe gols="1" time="Bragantino-SP" tipo="mandante" />
+            <equipe gols="3" time="Ceará-CE" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-18T21:00:00">
+            <equipe gols="1" time="A.s.a.-AL" tipo="mandante" />
+            <equipe gols="1" time="Paraná-PR" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="17">
+        <jogo horario="2012-08-14T19:30:00">
+            <equipe gols="2" time="Betim-MG" tipo="mandante" />
+            <equipe gols="0" time="Paraná-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-14T19:30:00">
+            <equipe gols="0" time="C.r.b.-AL" tipo="mandante" />
+            <equipe gols="2" time="Ceará-CE" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-14T19:30:00">
+            <equipe gols="4" time="Criciuma-SC" tipo="mandante" />
+            <equipe gols="3" time="América-RN" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-14T19:30:00">
+            <equipe gols="2" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="0" time="Guaratinguetá-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-14T19:30:00">
+            <equipe gols="1" time="Joinville-SC" tipo="mandante" />
+            <equipe gols="0" time="Bragantino-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-14T21:50:00">
+            <equipe gols="1" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="0" time="A.s.a.-AL" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-14T21:50:00">
+            <equipe gols="2" time="Grêmio Barueri-SP" tipo="mandante" />
+            <equipe gols="0" time="Goiás-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-14T21:50:00">
+            <equipe gols="1" time="Boa-MG" tipo="mandante" />
+            <equipe gols="3" time="São Caetano-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-14T21:50:00">
+            <equipe gols="0" time="Guarani-SP" tipo="mandante" />
+            <equipe gols="2" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-14T21:50:00">
+            <equipe gols="0" time="A.b.c.-RN" tipo="mandante" />
+            <equipe gols="2" time="América-MG" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="16">
+        <jogo horario="2012-08-07T21:00:00">
+            <equipe gols="0" time="Bragantino-SP" tipo="mandante" />
+            <equipe gols="2" time="Betim-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-07T21:00:00">
+            <equipe gols="3" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="1" time="A.b.c.-RN" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-07T21:00:00">
+            <equipe gols="0" time="América-RN" tipo="mandante" />
+            <equipe gols="2" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-10T21:00:00">
+            <equipe gols="2" time="Ceará-CE" tipo="mandante" />
+            <equipe gols="0" time="Grêmio Barueri-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-10T21:00:00">
+            <equipe gols="1" time="A.s.a.-AL" tipo="mandante" />
+            <equipe gols="0" time="Guarani-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-11T16:20:00">
+            <equipe gols="2" time="Goiás-GO" tipo="mandante" />
+            <equipe gols="0" time="Boa-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-11T16:20:00">
+            <equipe gols="1" time="São Caetano-SP" tipo="mandante" />
+            <equipe gols="1" time="Criciuma-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-11T16:20:00">
+            <equipe gols="0" time="Guaratinguetá-SP" tipo="mandante" />
+            <equipe gols="3" time="Joinville-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-11T16:20:00">
+            <equipe gols="1" time="América-MG" tipo="mandante" />
+            <equipe gols="2" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-11T16:20:00">
+            <equipe gols="4" time="Paraná-PR" tipo="mandante" />
+            <equipe gols="0" time="C.r.b.-AL" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="15">
+        <jogo horario="2012-08-03T21:00:00">
+            <equipe gols="1" time="Boa-MG" tipo="mandante" />
+            <equipe gols="1" time="América-RN" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-03T21:00:00">
+            <equipe gols="0" time="Betim-MG" tipo="mandante" />
+            <equipe gols="6" time="Goiás-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-03T21:00:00">
+            <equipe gols="0" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="1" time="Bragantino-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-03T21:00:00">
+            <equipe gols="0" time="Grêmio Barueri-SP" tipo="mandante" />
+            <equipe gols="0" time="C.r.b.-AL" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-04T16:20:00">
+            <equipe gols="0" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="1" time="São Caetano-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-04T16:20:00">
+            <equipe gols="3" time="Joinville-SC" tipo="mandante" />
+            <equipe gols="1" time="Criciuma-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-04T16:20:00">
+            <equipe gols="2" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="1" time="Ceará-CE" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-04T16:20:00">
+            <equipe gols="2" time="Guarani-SP" tipo="mandante" />
+            <equipe gols="1" time="Guaratinguetá-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-04T16:20:00">
+            <equipe gols="3" time="A.s.a.-AL" tipo="mandante" />
+            <equipe gols="2" time="América-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-08-04T21:00:00">
+            <equipe gols="2" time="A.b.c.-RN" tipo="mandante" />
+            <equipe gols="0" time="Paraná-PR" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="14">
+        <jogo horario="2012-07-31T19:30:00">
+            <equipe gols="0" time="América-MG" tipo="mandante" />
+            <equipe gols="2" time="Joinville-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-31T19:30:00">
+            <equipe gols="1" time="Goiás-GO" tipo="mandante" />
+            <equipe gols="1" time="A.b.c.-RN" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-31T19:30:00">
+            <equipe gols="2" time="Criciuma-SC" tipo="mandante" />
+            <equipe gols="1" time="Guarani-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-31T19:30:00">
+            <equipe gols="1" time="Paraná-PR" tipo="mandante" />
+            <equipe gols="1" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-31T19:30:00">
+            <equipe gols="1" time="Ceará-CE" tipo="mandante" />
+            <equipe gols="1" time="Boa-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-31T21:50:00">
+            <equipe gols="0" time="Guaratinguetá-SP" tipo="mandante" />
+            <equipe gols="1" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-31T21:50:00">
+            <equipe gols="2" time="América-RN" tipo="mandante" />
+            <equipe gols="1" time="Grêmio Barueri-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-31T21:50:00">
+            <equipe gols="2" time="Bragantino-SP" tipo="mandante" />
+            <equipe gols="2" time="A.s.a.-AL" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-31T21:50:00">
+            <equipe gols="0" time="São Caetano-SP" tipo="mandante" />
+            <equipe gols="0" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-31T21:50:00">
+            <equipe gols="2" time="C.r.b.-AL" tipo="mandante" />
+            <equipe gols="0" time="Betim-MG" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="13">
+        <jogo horario="2012-07-24T21:00:00">
+            <equipe gols="2" time="Boa-MG" tipo="mandante" />
+            <equipe gols="1" time="América-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-24T21:00:00">
+            <equipe gols="0" time="A.s.a.-AL" tipo="mandante" />
+            <equipe gols="1" time="Goiás-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-24T21:00:00">
+            <equipe gols="1" time="Joinville-SC" tipo="mandante" />
+            <equipe gols="0" time="América-RN" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-27T21:00:00">
+            <equipe gols="1" time="Grêmio Barueri-SP" tipo="mandante" />
+            <equipe gols="4" time="Criciuma-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-27T21:00:00">
+            <equipe gols="1" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="0" time="Bragantino-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-28T16:20:00">
+            <equipe gols="1" time="Paraná-PR" tipo="mandante" />
+            <equipe gols="0" time="Ceará-CE" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-28T16:20:00">
+            <equipe gols="3" time="A.b.c.-RN" tipo="mandante" />
+            <equipe gols="0" time="Guaratinguetá-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-28T16:20:00">
+            <equipe gols="2" time="Guarani-SP" tipo="mandante" />
+            <equipe gols="1" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-28T16:20:00">
+            <equipe gols="1" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="0" time="C.r.b.-AL" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-28T21:00:00">
+            <equipe gols="1" time="Betim-MG" tipo="mandante" />
+            <equipe gols="2" time="São Caetano-SP" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="12">
+        <jogo horario="2012-07-20T21:00:00">
+            <equipe gols="2" time="América-RN" tipo="mandante" />
+            <equipe gols="1" time="Betim-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-20T21:00:00">
+            <equipe gols="3" time="São Caetano-SP" tipo="mandante" />
+            <equipe gols="0" time="Grêmio Barueri-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-20T21:00:00">
+            <equipe gols="1" time="América-MG" tipo="mandante" />
+            <equipe gols="1" time="Guarani-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-20T21:00:00">
+            <equipe gols="0" time="Guaratinguetá-SP" tipo="mandante" />
+            <equipe gols="0" time="Boa-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-21T16:20:00">
+            <equipe gols="4" time="C.r.b.-AL" tipo="mandante" />
+            <equipe gols="3" time="Joinville-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-21T16:20:00">
+            <equipe gols="0" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="1" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-21T16:20:00">
+            <equipe gols="2" time="Goiás-GO" tipo="mandante" />
+            <equipe gols="0" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-21T16:20:00">
+            <equipe gols="2" time="Criciuma-SC" tipo="mandante" />
+            <equipe gols="1" time="Paraná-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-21T16:20:00">
+            <equipe gols="3" time="Ceará-CE" tipo="mandante" />
+            <equipe gols="2" time="A.s.a.-AL" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-21T21:00:00">
+            <equipe gols="1" time="Bragantino-SP" tipo="mandante" />
+            <equipe gols="2" time="A.b.c.-RN" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="11">
+        <jogo horario="2012-07-17T19:30:00">
+            <equipe gols="6" time="Joinville-SC" tipo="mandante" />
+            <equipe gols="0" time="Betim-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-17T19:30:00">
+            <equipe gols="1" time="Guarani-SP" tipo="mandante" />
+            <equipe gols="2" time="Goiás-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-17T19:30:00">
+            <equipe gols="2" time="Ceará-CE" tipo="mandante" />
+            <equipe gols="2" time="São Caetano-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-17T19:30:00">
+            <equipe gols="2" time="A.s.a.-AL" tipo="mandante" />
+            <equipe gols="3" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-17T19:30:00">
+            <equipe gols="0" time="Boa-MG" tipo="mandante" />
+            <equipe gols="0" time="C.r.b.-AL" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-17T21:50:00">
+            <equipe gols="2" time="América-MG" tipo="mandante" />
+            <equipe gols="1" time="Guaratinguetá-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-17T21:50:00">
+            <equipe gols="1" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="2" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-17T21:50:00">
+            <equipe gols="0" time="Grêmio Barueri-SP" tipo="mandante" />
+            <equipe gols="0" time="Bragantino-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-17T21:50:00">
+            <equipe gols="1" time="Paraná-PR" tipo="mandante" />
+            <equipe gols="0" time="América-RN" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-17T21:50:00">
+            <equipe gols="2" time="A.b.c.-RN" tipo="mandante" />
+            <equipe gols="2" time="Criciuma-SC" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="10">
+        <jogo horario="2012-07-10T21:00:00">
+            <equipe gols="4" time="Criciuma-SC" tipo="mandante" />
+            <equipe gols="3" time="Boa-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-10T21:00:00">
+            <equipe gols="4" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="3" time="Paraná-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-10T21:00:00">
+            <equipe gols="2" time="Guaratinguetá-SP" tipo="mandante" />
+            <equipe gols="1" time="A.s.a.-AL" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-13T21:00:00">
+            <equipe gols="2" time="Goiás-GO" tipo="mandante" />
+            <equipe gols="0" time="América-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-13T21:00:00">
+            <equipe gols="0" time="Betim-MG" tipo="mandante" />
+            <equipe gols="3" time="Grêmio Barueri-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-14T16:20:00">
+            <equipe gols="1" time="São Caetano-SP" tipo="mandante" />
+            <equipe gols="0" time="Joinville-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-14T16:20:00">
+            <equipe gols="2" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="1" time="A.b.c.-RN" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-14T16:20:00">
+            <equipe gols="1" time="América-RN" tipo="mandante" />
+            <equipe gols="1" time="Ceará-CE" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-14T16:20:00">
+            <equipe gols="2" time="C.r.b.-AL" tipo="mandante" />
+            <equipe gols="0" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-14T16:20:00">
+            <equipe gols="0" time="Bragantino-SP" tipo="mandante" />
+            <equipe gols="0" time="Guarani-SP" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="9">
+        <jogo horario="2012-07-03T21:00:00">
+            <equipe gols="1" time="Guarani-SP" tipo="mandante" />
+            <equipe gols="0" time="Betim-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-03T21:00:00">
+            <equipe gols="0" time="Guaratinguetá-SP" tipo="mandante" />
+            <equipe gols="1" time="São Caetano-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-06T21:00:00">
+            <equipe gols="2" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="0" time="A.s.a.-AL" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-06T21:00:00">
+            <equipe gols="2" time="Ceará-CE" tipo="mandante" />
+            <equipe gols="2" time="Criciuma-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-06T21:00:00">
+            <equipe gols="4" time="Joinville-SC" tipo="mandante" />
+            <equipe gols="0" time="Grêmio Barueri-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-07T16:20:00">
+            <equipe gols="3" time="América-MG" tipo="mandante" />
+            <equipe gols="2" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-07T16:20:00">
+            <equipe gols="3" time="Bragantino-SP" tipo="mandante" />
+            <equipe gols="3" time="Goiás-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-07T16:20:00">
+            <equipe gols="4" time="C.r.b.-AL" tipo="mandante" />
+            <equipe gols="2" time="América-RN" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-07T16:20:00">
+            <equipe gols="0" time="A.b.c.-RN" tipo="mandante" />
+            <equipe gols="1" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-07T21:00:00">
+            <equipe gols="2" time="Paraná-PR" tipo="mandante" />
+            <equipe gols="0" time="Boa-MG" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="8">
+        <jogo horario="2012-06-26T21:00:00">
+            <equipe gols="0" time="Grêmio Barueri-SP" tipo="mandante" />
+            <equipe gols="1" time="América-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-26T21:00:00">
+            <equipe gols="1" time="Goiás-GO" tipo="mandante" />
+            <equipe gols="1" time="Guaratinguetá-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-26T21:00:00">
+            <equipe gols="1" time="Betim-MG" tipo="mandante" />
+            <equipe gols="2" time="Ceará-CE" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-29T21:00:00">
+            <equipe gols="1" time="América-RN" tipo="mandante" />
+            <equipe gols="0" time="Guarani-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-29T21:00:00">
+            <equipe gols="3" time="A.s.a.-AL" tipo="mandante" />
+            <equipe gols="1" time="A.b.c.-RN" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-30T16:20:00">
+            <equipe gols="2" time="Criciuma-SC" tipo="mandante" />
+            <equipe gols="0" time="C.r.b.-AL" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-30T16:20:00">
+            <equipe gols="2" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="0" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-30T16:20:00">
+            <equipe gols="1" time="São Caetano-SP" tipo="mandante" />
+            <equipe gols="1" time="Paraná-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-30T16:20:00">
+            <equipe gols="0" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="0" time="Bragantino-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-30T21:00:00">
+            <equipe gols="0" time="Boa-MG" tipo="mandante" />
+            <equipe gols="0" time="Joinville-SC" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="7">
+        <jogo horario="2012-06-19T21:00:00">
+            <equipe gols="2" time="C.r.b.-AL" tipo="mandante" />
+            <equipe gols="2" time="São Caetano-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-19T21:00:00">
+            <equipe gols="3" time="América-MG" tipo="mandante" />
+            <equipe gols="2" time="Bragantino-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-19T21:00:00">
+            <equipe gols="2" time="América-RN" tipo="mandante" />
+            <equipe gols="0" time="A.s.a.-AL" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-22T21:00:00">
+            <equipe gols="1" time="Guaratinguetá-SP" tipo="mandante" />
+            <equipe gols="1" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-22T21:00:00">
+            <equipe gols="2" time="Paraná-PR" tipo="mandante" />
+            <equipe gols="0" time="Joinville-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-23T16:20:00">
+            <equipe gols="1" time="Ceará-CE" tipo="mandante" />
+            <equipe gols="0" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-23T16:20:00">
+            <equipe gols="4" time="Goiás-GO" tipo="mandante" />
+            <equipe gols="3" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-23T16:20:00">
+            <equipe gols="1" time="Guarani-SP" tipo="mandante" />
+            <equipe gols="1" time="A.b.c.-RN" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-23T16:20:00">
+            <equipe gols="3" time="Criciuma-SC" tipo="mandante" />
+            <equipe gols="2" time="Betim-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-23T21:00:00">
+            <equipe gols="4" time="Boa-MG" tipo="mandante" />
+            <equipe gols="1" time="Grêmio Barueri-SP" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="6">
+        <jogo horario="2012-06-12T21:00:00">
+            <equipe gols="1" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="0" time="Guarani-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-12T21:00:00">
+            <equipe gols="1" time="Grêmio Barueri-SP" tipo="mandante" />
+            <equipe gols="2" time="Paraná-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-12T21:00:00">
+            <equipe gols="1" time="Betim-MG" tipo="mandante" />
+            <equipe gols="2" time="Boa-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-15T21:00:00">
+            <equipe gols="2" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="0" time="América-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-15T21:00:00">
+            <equipe gols="3" time="São Caetano-SP" tipo="mandante" />
+            <equipe gols="2" time="América-RN" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-16T16:20:00">
+            <equipe gols="1" time="Joinville-SC" tipo="mandante" />
+            <equipe gols="1" time="Ceará-CE" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-16T16:20:00">
+            <equipe gols="0" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="0" time="Goiás-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-16T16:20:00">
+            <equipe gols="4" time="A.b.c.-RN" tipo="mandante" />
+            <equipe gols="2" time="C.r.b.-AL" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-16T16:20:00">
+            <equipe gols="1" time="Bragantino-SP" tipo="mandante" />
+            <equipe gols="0" time="Guaratinguetá-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-16T21:00:00">
+            <equipe gols="1" time="A.s.a.-AL" tipo="mandante" />
+            <equipe gols="2" time="Criciuma-SC" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="5">
+        <jogo horario="2012-06-05T21:00:00">
+            <equipe gols="1" time="Joinville-SC" tipo="mandante" />
+            <equipe gols="0" time="A.s.a.-AL" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-05T21:00:00">
+            <equipe gols="1" time="São Caetano-SP" tipo="mandante" />
+            <equipe gols="1" time="América-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-08T21:00:00">
+            <equipe gols="1" time="Betim-MG" tipo="mandante" />
+            <equipe gols="2" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-08T21:00:00">
+            <equipe gols="2" time="América-RN" tipo="mandante" />
+            <equipe gols="1" time="Bragantino-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-08T21:00:00">
+            <equipe gols="1" time="Boa-MG" tipo="mandante" />
+            <equipe gols="2" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-09T16:20:00">
+            <equipe gols="2" time="Grêmio Barueri-SP" tipo="mandante" />
+            <equipe gols="2" time="Guarani-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-09T16:20:00">
+            <equipe gols="2" time="C.r.b.-AL" tipo="mandante" />
+            <equipe gols="0" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-09T16:20:00">
+            <equipe gols="3" time="Criciuma-SC" tipo="mandante" />
+            <equipe gols="0" time="Goiás-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-09T16:20:00">
+            <equipe gols="3" time="Paraná-PR" tipo="mandante" />
+            <equipe gols="2" time="Guaratinguetá-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-09T21:00:00">
+            <equipe gols="4" time="Ceará-CE" tipo="mandante" />
+            <equipe gols="2" time="A.b.c.-RN" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="4">
+        <jogo horario="2012-06-01T21:00:00">
+            <equipe gols="0" time="Guaratinguetá-SP" tipo="mandante" />
+            <equipe gols="2" time="América-RN" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-01T21:00:00">
+            <equipe gols="3" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="0" time="Grêmio Barueri-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-01T21:00:00">
+            <equipe gols="1" time="Goiás-GO" tipo="mandante" />
+            <equipe gols="0" time="C.r.b.-AL" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-02T16:20:00">
+            <equipe gols="4" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="0" time="Betim-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-02T16:20:00">
+            <equipe gols="1" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="2" time="Joinville-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-02T16:20:00">
+            <equipe gols="4" time="Guarani-SP" tipo="mandante" />
+            <equipe gols="1" time="Ceará-CE" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-02T16:20:00">
+            <equipe gols="3" time="América-MG" tipo="mandante" />
+            <equipe gols="0" time="Criciuma-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-02T16:20:00">
+            <equipe gols="3" time="A.s.a.-AL" tipo="mandante" />
+            <equipe gols="2" time="Boa-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-02T16:20:00">
+            <equipe gols="0" time="A.b.c.-RN" tipo="mandante" />
+            <equipe gols="1" time="São Caetano-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-02T21:00:00">
+            <equipe gols="3" time="Bragantino-SP" tipo="mandante" />
+            <equipe gols="3" time="Paraná-PR" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="3">
+        <jogo horario="2012-05-29T19:30:00">
+            <equipe gols="2" time="São Caetano-SP" tipo="mandante" />
+            <equipe gols="0" time="Bragantino-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-05-29T19:30:00">
+            <equipe gols="2" time="Ceará-CE" tipo="mandante" />
+            <equipe gols="2" time="Goiás-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-05-29T19:30:00">
+            <equipe gols="3" time="C.r.b.-AL" tipo="mandante" />
+            <equipe gols="4" time="Guaratinguetá-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-05-29T19:30:00">
+            <equipe gols="1" time="América-RN" tipo="mandante" />
+            <equipe gols="0" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-05-29T19:30:00">
+            <equipe gols="1" time="Joinville-SC" tipo="mandante" />
+            <equipe gols="0" time="Guarani-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-05-29T21:50:00">
+            <equipe gols="1" time="Paraná-PR" tipo="mandante" />
+            <equipe gols="1" time="América-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-05-29T21:50:00">
+            <equipe gols="0" time="Grêmio Barueri-SP" tipo="mandante" />
+            <equipe gols="3" time="A.b.c.-RN" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-05-29T21:50:00">
+            <equipe gols="1" time="Betim-MG" tipo="mandante" />
+            <equipe gols="0" time="A.s.a.-AL" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-05-29T21:50:00">
+            <equipe gols="3" time="Criciuma-SC" tipo="mandante" />
+            <equipe gols="2" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-05-29T21:50:00">
+            <equipe gols="1" time="Boa-MG" tipo="mandante" />
+            <equipe gols="1" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="2">
+        <jogo horario="2012-05-22T21:00:00">
+            <equipe gols="1" time="Avaí-SC" tipo="mandante" />
+            <equipe gols="0" time="São Caetano-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-05-25T21:00:00">
+            <equipe gols="0" time="A.b.c.-RN" tipo="mandante" />
+            <equipe gols="0" time="Joinville-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-05-25T21:00:00">
+            <equipe gols="0" time="Guarani-SP" tipo="mandante" />
+            <equipe gols="0" time="Boa-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-05-26T16:20:00">
+            <equipe gols="2" time="Guaratinguetá-SP" tipo="mandante" />
+            <equipe gols="1" time="Ceará-CE" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-05-26T16:20:00">
+            <equipe gols="4" time="América-MG" tipo="mandante" />
+            <equipe gols="0" time="C.r.b.-AL" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-05-26T16:20:00">
+            <equipe gols="3" time="Bragantino-SP" tipo="mandante" />
+            <equipe gols="4" time="Criciuma-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-05-26T21:00:00">
+            <equipe gols="1" time="A.s.a.-AL" tipo="mandante" />
+            <equipe gols="1" time="Grêmio Barueri-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-05T21:00:00">
+            <equipe gols="2" time="Goiás-GO" tipo="mandante" />
+            <equipe gols="0" time="Paraná-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-06-05T21:00:00">
+            <equipe gols="2" time="Vitória-BA" tipo="mandante" />
+            <equipe gols="2" time="América-RN" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-07-10T21:00:00">
+            <equipe gols="1" time="Atlético-PR" tipo="mandante" />
+            <equipe gols="0" time="Betim-MG" tipo="visitante" />
+        </jogo>
+    </rodada>
+    <rodada n="1">
+        <jogo horario="2012-05-18T21:00:00">
+            <equipe gols="1" time="Ceará-CE" tipo="mandante" />
+            <equipe gols="2" time="América-MG" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-05-18T21:00:00">
+            <equipe gols="0" time="C.r.b.-AL" tipo="mandante" />
+            <equipe gols="2" time="Bragantino-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-05-18T21:00:00">
+            <equipe gols="1" time="Betim-MG" tipo="mandante" />
+            <equipe gols="1" time="A.b.c.-RN" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-05-19T16:20:00">
+            <equipe gols="5" time="América-RN" tipo="mandante" />
+            <equipe gols="2" time="Goiás-GO" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-05-19T16:20:00">
+            <equipe gols="1" time="Paraná-PR" tipo="mandante" />
+            <equipe gols="1" time="Guarani-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-05-19T16:20:00">
+            <equipe gols="2" time="Boa-MG" tipo="mandante" />
+            <equipe gols="2" time="Avaí-SC" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-05-19T16:20:00">
+            <equipe gols="0" time="Grêmio Barueri-SP" tipo="mandante" />
+            <equipe gols="1" time="Vitória-BA" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-05-19T16:20:00">
+            <equipe gols="1" time="Joinville-SC" tipo="mandante" />
+            <equipe gols="4" time="Atlético-PR" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-05-19T16:20:00">
+            <equipe gols="4" time="Criciuma-SC" tipo="mandante" />
+            <equipe gols="1" time="Guaratinguetá-SP" tipo="visitante" />
+        </jogo>
+        <jogo horario="2012-05-19T21:00:00">
+            <equipe gols="0" time="São Caetano-SP" tipo="mandante" />
+            <equipe gols="1" time="A.s.a.-AL" tipo="visitante" />
+        </jogo>
+    </rodada>
+</cb>
